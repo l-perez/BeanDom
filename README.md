@@ -1,1 +1,3 @@
 # BeanDom
+
+This repository contains the datasets and R scripts necessary to reproduce the core analyses reported in ...
