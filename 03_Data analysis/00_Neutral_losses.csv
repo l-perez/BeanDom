@@ -1,0 +1,17 @@
+Nr,Short,Con,m/z Dif,Elution
+1,Mal,Malate,116.011,-1
+2,Rhab,Deoxyhexose,146.058,-1
+3,Red,Reduction,2.016,-1
+4,Caf,Caffeate,162.032,1
+5,Cou,Coumarate,146.037,1
+6,Iso,Isoprenylation,68.063,1
+7,Fer,Ferulate,176.047,1
+8,Pen,Pentose,132.042,-1
+9,Sin,Sinapate,206.058,1
+10,Hyd,Hydration,18.011,-1
+11,Oxy,Oxygenation,15.995,-1
+12,Ace,Acetylation,42.011,0
+13,Hex,Hexose,162.053,-1
+14,Met,Methylation,14.016,1
+15,Mox,Methoxylation,30.011,0
+16,GlcA,Hexuronic acid,176.032,-1
