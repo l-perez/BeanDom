@@ -1,0 +1,1 @@
+grep -E "Query #|Phaseolus vulgaris hypothetical protein" blast_result.txt > blast_clean.txt

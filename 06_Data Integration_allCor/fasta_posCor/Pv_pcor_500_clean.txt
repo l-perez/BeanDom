@@ -1,0 +1,1835 @@
+Query #1: tr_34 Query ID: lcl|Query_25752 Length: 1773
+Phaseolus vulgaris hypothetical protein (PHAVU_006G025200g)...    Phaseolus vu... NA              3885       2084   2084  64%   0.0   99.56  1143       XM_007146192.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G024900g)...    Phaseolus vu... NA              3885       944    944   64%   0.0   81.79  1404       XM_007146187.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G025200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G024900g) mRNA, partial cds
+Query #2: tr_44 Query ID: lcl|Query_25753 Length: 1026
+Phaseolus vulgaris hypothetical protein (PHAVU_002G045100g)...    Phaseolus vu... NA              3885       1515   1515  82%   0.0   99.05  846        XM_007157064.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G045100g) mRNA, complete cds
+Query #3: tr_49 Query ID: lcl|Query_25754 Length: 1150
+Phaseolus vulgaris hypothetical protein (PHAVU_003G161100g)...    Phaseolus vu... NA              3885       2124   2124  100%  0.0   100.00 1216       XM_007154892.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G161100g) mRNA, complete cds
+Query #4: tr_54 Query ID: lcl|Query_25755 Length: 807
+Phaseolus vulgaris hypothetical protein (PHAVU_007G069100g)...    Phaseolus vu... NA              3885       1491   1491  100%  0.0   100.00 3693       XM_007143334.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G069100g)...    Phaseolus vu... NA              3885       1491   1491  100%  0.0   100.00 3674       XM_007143333.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G069100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G069100g) mRNA, complete cds
+Query #5: tr_57 Query ID: lcl|Query_25756 Length: 2156
+Phaseolus vulgaris hypothetical protein (PHAVU_002G038000g)...    Phaseolus vu... NA              3885       2540   3640  96%   0.0   98.21  2084       XM_007156971.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G038000g) mRNA, complete cds
+Query #6: tr_61 Query ID: lcl|Query_25757 Length: 1346
+Phaseolus vulgaris hypothetical protein (PHAVU_007G094400g)...    Phaseolus vu... NA              3885       2486   2486  100%  0.0   100.00 1385       XM_007143638.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G094400g) mRNA, complete cds
+Query #7: tr_63 Query ID: lcl|Query_25758 Length: 802
+Phaseolus vulgaris hypothetical protein (PHAVU_006G101700g)...    Phaseolus vu... NA              3885       1437   1437  100%  0.0   99.00  1631       XM_007147108.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G101700g) mRNA, complete cds
+Query #8: tr_97 Query ID: lcl|Query_25759 Length: 2004
+Phaseolus vulgaris hypothetical protein (PHAVU_008G048200g)...    Phaseolus vu... NA              3885       2401   2401  71%   0.0   97.08  1419       XM_007139594.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G048200g) mRNA, complete cds
+Query #9: tr_130 Query ID: lcl|Query_25760 Length: 2062
+Phaseolus vulgaris hypothetical protein (PHAVU_005G131000g)...    Phaseolus vu... NA              3885       3035   3035  80%   0.0   99.52  2020       XM_007150087.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G131100g)...    Phaseolus vu... NA              3885       1314   1314  35%   0.0   99.05  799        XM_007150088.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G084700g)...    Phaseolus vu... NA              3885       765    765   55%   0.0   78.85  1584       XM_007132257.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G085000g)...    Phaseolus vu... NA              3885       688    688   55%   0.0   77.66  1597       XM_007132260.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G084900g)...    Phaseolus vu... NA              3885       656    656   56%   0.0   77.07  1594       XM_007132259.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G131000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G131100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G084700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G085000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G084900g) mRNA, complete cds
+Query #10: tr_138 Query ID: lcl|Query_25761 Length: 969
+Phaseolus vulgaris hypothetical protein (PHAVU_007G208800g)...    Phaseolus vu... NA              3885       1395   1395  78%   0.0   99.87  989        XM_007145027.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G208800g) mRNA, complete cds
+Query #11: tr_152 Query ID: lcl|Query_25762 Length: 753
+Phaseolus vulgaris hypothetical protein (PHAVU_004G056300g)...    Phaseolus vu... NA              3885       542    542   39%   3e-153 99.66  1467       XM_007151490.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G056300g) mRNA, complete cds
+Query #12: tr_156 Query ID: lcl|Query_25763 Length: 2717
+Query #13: tr_160 Query ID: lcl|Query_25764 Length: 1827
+Phaseolus vulgaris hypothetical protein (PHAVU_008G056100g)...    Phaseolus vu... NA              3885       3264   3264  97%   0.0    99.72  1800       XM_007139685.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G056100g)...    Phaseolus vu... NA              3885       2752   2752  81%   0.0    99.87  1539       XM_007139686.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G056200g)...    Phaseolus vu... NA              3885       494    494   14%   2e-138 99.63  270        XM_007139687.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G056100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G056100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G056200g) mRNA, complete cds
+Query #14: tr_165 Query ID: lcl|Query_25765 Length: 1350
+Phaseolus vulgaris hypothetical protein (PHAVU_010G143100g)...    Phaseolus vu... NA              3885       1919   1919  84%   0.0   96.86  2540       XM_007135546.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G143100g)...    Phaseolus vu... NA              3885       1919   1919  84%   0.0   96.86  2786       XM_007135545.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G143100g)...    Phaseolus vu... NA              3885       1919   1919  84%   0.0   96.86  2862       XM_007135544.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G143100g)...    Phaseolus vu... NA              3885       1919   1919  84%   0.0   96.86  3108       XM_007135543.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G143100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G143100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G143100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G143100g) mRNA, complete cds
+Query #15: tr_168 Query ID: lcl|Query_25766 Length: 1679
+Phaseolus vulgaris hypothetical protein (PHAVU_011G006200g)...    Phaseolus vu... NA              3885       2510   2866  95%   0.0   99.07  1655       XM_007131285.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G006200g) mRNA, complete cds
+Query #16: tr_176 Query ID: lcl|Query_25767 Length: 1814
+Phaseolus vulgaris hypothetical protein (PHAVU_002G210200g)...    Phaseolus vu... NA              3885       3330   3330  99%   0.0   99.94  1826       XM_007159057.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G210200g) mRNA, complete cds
+Query #17: tr_183 Query ID: lcl|Query_25768 Length: 799
+Phaseolus vulgaris hypothetical protein (PHAVU_006G101700g)...    Phaseolus vu... NA              3885       1378   1378  97%   0.0   98.71  1631       XM_007147108.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G101700g) mRNA, complete cds
+Query #18: tr_194 Query ID: lcl|Query_25769 Length: 1766
+Phaseolus vulgaris hypothetical protein (PHAVU_001G170100g)...    Phaseolus vu... NA              3885       3133   3133  97%   0.0   99.36  1733       XM_007162604.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G170100g)...    Phaseolus vu... NA              3885       3073   3073  97%   0.0   98.84  1724       XM_007162605.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G170100g)...    Phaseolus vu... NA              3885       1386   1814  56%   0.0   99.48  1059       XM_007162606.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G170100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G170100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G170100g) mRNA, complete cds
+Query #19: tr_208 Query ID: lcl|Query_25770 Length: 1557
+Phaseolus vulgaris hypothetical protein (PHAVU_004G106800g)...    Phaseolus vu... NA              3885       2207   2207  77%   0.0   99.51  1581       XM_007152098.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G106800g) mRNA, complete cds
+Query #20: tr_218 Query ID: lcl|Query_25771 Length: 1844
+Phaseolus vulgaris hypothetical protein (PHAVU_011G049600g)...    Phaseolus vu... NA              3885       3203   3203  95%   0.0   99.38  1767       XM_007131824.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G049600g) mRNA, complete cds
+Query #21: tr_235 Query ID: lcl|Query_25772 Length: 1003
+Phaseolus vulgaris hypothetical protein (PHAVU_009G119300g)...    Phaseolus vu... NA              3885       1214   1551  86%   0.0   98.97  935        XM_007137283.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G119300g) mRNA, complete cds
+Query #22: tr_248 Query ID: lcl|Query_25773 Length: 3030
+Phaseolus vulgaris hypothetical protein (PHAVU_005G051600g)...    Phaseolus vu... NA              3885       3951   3951  70%   0.0   99.91  2368       XM_007149157.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G241400g)...    Phaseolus vu... NA              3885       1666   1666  30%   0.0   99.14  970        XM_007159423.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G198800g)...    Phaseolus vu... NA              3885       132    132   46%   3e-29 68.95  1764       XM_007144910.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G051600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G241400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G198800g) mRNA, complete cds
+Query #23: tr_271 Query ID: lcl|Query_25774 Length: 2475
+Phaseolus vulgaris hypothetical protein (PHAVU_003G164000g)...    Phaseolus vu... NA              3885       4228   4228  93%   0.0   99.57  2320       XM_007154933.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G164000g) mRNA, complete cds
+Query #24: tr_276 Query ID: lcl|Query_25775 Length: 1631
+Phaseolus vulgaris hypothetical protein (PHAVU_L002700g) mRNA,... Phaseolus vu... NA              3885       2523   2523  86%   0.0    98.94  1436       XM_007163889.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G099700g)...    Phaseolus vu... NA              3885       1895   1895  70%   0.0    96.36  1290       XM_007157742.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_L002700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G099700g) mRNA, complete cds
+Query #25: tr_287 Query ID: lcl|Query_25776 Length: 1976
+Query #26: tr_293 Query ID: lcl|Query_25777 Length: 2760
+Phaseolus vulgaris hypothetical protein (PHAVU_004G169100g)...    Phaseolus vu... NA              3885       2682   4437  88%   0.0   99.46  2430       XM_007152833.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G169100g) mRNA, complete cds
+Query #27: tr_329 Query ID: lcl|Query_25778 Length: 1195
+Phaseolus vulgaris hypothetical protein (PHAVU_006G056300g)...    Phaseolus vu... NA              3885       1530   1530  70%   0.0   99.29  968        XM_007146566.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G056300g) mRNA, complete cds
+Query #28: tr_330 Query ID: lcl|Query_25779 Length: 663
+Phaseolus vulgaris hypothetical protein (PHAVU_002G296000g)...    Phaseolus vu... NA              3885       1218   1218  99%   0.0   99.85  683        XM_007160078.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G296000g) mRNA, complete cds
+Query #29: tr_357 Query ID: lcl|Query_25780 Length: 1260
+Phaseolus vulgaris hypothetical protein (PHAVU_009G040400g)...    Phaseolus vu... NA              3885       1988   1988  86%   0.0   99.54  1132       XM_007136316.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G040400g) mRNA, complete cds
+Query #30: tr_367 Query ID: lcl|Query_25781 Length: 2867
+Phaseolus vulgaris hypothetical protein (PHAVU_001G1193000g)...   Phaseolus vu... NA              3885       4518   4518  85%   0.0   100.00 2446       XM_007161986.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G1193000g) mRNA, partial cds
+Query #31: tr_368 Query ID: lcl|Query_25782 Length: 1956
+Phaseolus vulgaris hypothetical protein (PHAVU_007G145000g)...    Phaseolus vu... NA              3885       1376   2101  58%   0.0   99.87  1140       XM_007144244.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G145000g) mRNA, complete cds
+Query #32: tr_380 Query ID: lcl|Query_25783 Length: 1276
+Phaseolus vulgaris hypothetical protein (PHAVU_011G090100g)...    Phaseolus vu... NA              3885       2150   2150  94%   0.0   99.00  1206       XM_007132319.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G101800g)...    Phaseolus vu... NA              3885       246    246   15%   4e-64 89.22  971        XM_007149763.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G090100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G101800g) mRNA, complete cds
+Query #33: tr_414 Query ID: lcl|Query_25784 Length: 1941
+Phaseolus vulgaris hypothetical protein (PHAVU_003G146200g)...    Phaseolus vu... NA              3885       3480   3480  98%   0.0   99.48  1923       XM_007154707.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G248400g)...    Phaseolus vu... NA              3885       141    273   10%   3e-32 89.47  3533       XM_007155914.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G146200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G248400g) mRNA, complete cds
+Query #34: tr_420 Query ID: lcl|Query_25785 Length: 1362
+Query #35: tr_422 Query ID: lcl|Query_25786 Length: 1850
+Phaseolus vulgaris hypothetical protein (PHAVU_011G064800g)...    Phaseolus vu... NA              3885       2451   2451  72%   0.0   99.85  1870       XM_007132012.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G064800g)...    Phaseolus vu... NA              3885       2043   2460  72%   0.0   99.91  2097       XM_007132011.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G143100g)...    Phaseolus vu... NA              3885       287    287   23%   4e-76 79.12  1583       XM_007150252.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G064800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G064800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G143100g) mRNA, complete cds
+Query #36: tr_429 Query ID: lcl|Query_25787 Length: 1285
+Query #37: tr_455 Query ID: lcl|Query_25788 Length: 858
+Phaseolus vulgaris hypothetical protein (PHAVU_006G204900g)...    Phaseolus vu... NA              3885       1580   1580  100%  0.0   99.88  2259       XM_007148333.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G204900g)...    Phaseolus vu... NA              3885       1580   1580  100%  0.0   99.88  2256       XM_007148332.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G204900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G204900g) mRNA, complete cds
+Query #38: tr_472 Query ID: lcl|Query_25789 Length: 1435
+Query #39: tr_483 Query ID: lcl|Query_25790 Length: 2372
+Phaseolus vulgaris hypothetical protein (PHAVU_010G046000g)...    Phaseolus vu... NA              3885       4137   4137  100%  0.0   98.15  3880       XM_007134358.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G045800g)...    Phaseolus vu... NA              3885       1151   3130  90%   0.0   92.03  2241       XM_007134355.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G046000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G045800g) mRNA, complete cds
+Query #40: tr_486 Query ID: lcl|Query_25791 Length: 1635
+Phaseolus vulgaris hypothetical protein (PHAVU_004G062600g)...    Phaseolus vu... NA              3885       2750   2750  91%   0.0    99.93  1517       XM_007151560.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G097400g)...    Phaseolus vu... NA              3885       377    377   52%   2e-103 75.29  885        XM_007161713.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G062600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G097400g) mRNA, partial cds
+Query #41: tr_487 Query ID: lcl|Query_25792 Length: 1593
+Phaseolus vulgaris hypothetical protein (PHAVU_004G062600g)...    Phaseolus vu... NA              3885       2780   2780  95%   0.0   99.74  1517       XM_007151560.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G097400g)...    Phaseolus vu... NA              3885       361    361   52%   2e-98 75.03  885        XM_007161713.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G062600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G097400g) mRNA, partial cds
+Query #42: tr_499 Query ID: lcl|Query_25793 Length: 1163
+Phaseolus vulgaris hypothetical protein (PHAVU_006G211200g)...    Phaseolus vu... NA              3885       643    643   31%   0.0   97.63  378        XM_007148404.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G211200g) mRNA, complete cds
+Query #43: tr_503 Query ID: lcl|Query_25794 Length: 1095
+Phaseolus vulgaris hypothetical protein (PHAVU_009G228300g)...    Phaseolus vu... NA              3885       1738   1738  93%   0.0   97.28  1104       XM_007138610.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G228300g) mRNA, complete cds
+Query #44: tr_506 Query ID: lcl|Query_25795 Length: 1056
+Query #45: tr_516 Query ID: lcl|Query_25796 Length: 632
+Phaseolus vulgaris hypothetical protein (PHAVU_005G158700g)...    Phaseolus vu... NA              3885       966    966   87%   0.0   98.20  2338       XM_007150452.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G158700g) mRNA, complete cds
+Query #46: tr_527 Query ID: lcl|Query_25797 Length: 2000
+Phaseolus vulgaris hypothetical protein (PHAVU_008G250500g)...    Phaseolus vu... NA              3885       3188   3188  88%   0.0   99.26  1766       XM_007142013.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G075300g)...    Phaseolus vu... NA              3885       1064   1064  77%   0.0   79.36  1868       XM_007146787.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G250500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G075300g) mRNA, complete cds
+Query #47: tr_528 Query ID: lcl|Query_25798 Length: 2857
+Phaseolus vulgaris hypothetical protein (PHAVU_003G164700g)...    Phaseolus vu... NA              3885       4322   4322  82%   0.0   99.70  2361       XM_007154941.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G164700g) mRNA, complete cds
+Query #48: tr_531 Query ID: lcl|Query_25799 Length: 403
+Phaseolus vulgaris hypothetical protein (PHAVU_011G011800g)...    Phaseolus vu... NA              3885       710    710   100%  0.0    98.51  1163       XM_007131354.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G011800g)...    Phaseolus vu... NA              3885       710    710   100%  0.0    98.51  1192       XM_007131353.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G011900g)...    Phaseolus vu... NA              3885       401    401   100%  3e-111 84.65  966        XM_007131355.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G011800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G011800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G011900g) mRNA, complete cds
+Query #49: tr_538 Query ID: lcl|Query_25800 Length: 2767
+Phaseolus vulgaris hypothetical protein (PHAVU_010G011900g)...    Phaseolus vu... NA              3885       3240   3240  79%   0.0   93.22  2583       XM_007133952.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G114300g)...    Phaseolus vu... NA              3885       2187   2187  56%   0.0   91.66  2725       XM_007140399.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G011900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G114300g) mRNA, complete cds
+Query #50: tr_591 Query ID: lcl|Query_25801 Length: 3275
+Phaseolus vulgaris hypothetical protein (PHAVU_002G088200g)...    Phaseolus vu... NA              3885       2782   2997  49%   0.0   99.93  2370       XM_007157602.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G088200g)...    Phaseolus vu... NA              3885       2782   2782  46%   0.0   99.93  2219       XM_007157601.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G020900g)...    Phaseolus vu... NA              3885       1989   1989  33%   0.0   99.54  3952       XM_007131470.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G038500g)...    Phaseolus vu... NA              3885       1029   1029  28%   0.0   86.66  3733       XM_007156979.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G088200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G088200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G020900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G038500g) mRNA, complete cds
+Query #51: tr_593 Query ID: lcl|Query_25802 Length: 1209
+Phaseolus vulgaris hypothetical protein (PHAVU_001G248300g)...    Phaseolus vu... NA              3885       1989   1989  94%   0.0   98.16  1145       XM_007163542.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G248300g)...    Phaseolus vu... NA              3885       1956   1956  94%   0.0   97.73  1140       XM_007163541.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G248300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G248300g) mRNA, complete cds
+Query #52: tr_597 Query ID: lcl|Query_25803 Length: 1131
+Phaseolus vulgaris hypothetical protein (PHAVU_002G088000g)...    Phaseolus vu... NA              3885       1482   1482  70%   0.0   100.00 802        XM_007157599.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G088000g) mRNA, complete cds
+Query #53: tr_608 Query ID: lcl|Query_25804 Length: 990
+Query #54: tr_611 Query ID: lcl|Query_25805 Length: 724
+Query #55: tr_620 Query ID: lcl|Query_25806 Length: 657
+Phaseolus vulgaris hypothetical protein (PHAVU_006G2101000g)...   Phaseolus vu... NA              3885       433    433   36%   2e-120 98.77  677        XM_007148391.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G2101000g) mRNA, partial cds
+Query #56: tr_644 Query ID: lcl|Query_25807 Length: 1261
+Phaseolus vulgaris hypothetical protein (PHAVU_008G247600g)...    Phaseolus vu... NA              3885       1943   1943  98%   0.0   95.08  1294       XM_007141981.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G250700g)...    Phaseolus vu... NA              3885       1940   1940  85%   0.0   99.26  1074       XM_007142015.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G250600g)...    Phaseolus vu... NA              3885       1805   1805  92%   0.0   94.61  1176       XM_007142014.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G247600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G250700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G250600g) mRNA, complete cds
+Query #57: tr_648 Query ID: lcl|Query_25808 Length: 640
+Phaseolus vulgaris hypothetical protein (PHAVU_001G170200g)...    Phaseolus vu... NA              3885       1157   1157  97%   0.0   100.00 1041       XM_007162607.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G170200g) mRNA, complete cds
+Query #58: tr_658 Query ID: lcl|Query_25809 Length: 544
+Query #59: tr_661 Query ID: lcl|Query_25810 Length: 1507
+Phaseolus vulgaris hypothetical protein (PHAVU_006G185700g)...    Phaseolus vu... NA              3885       2758   2758  100%  0.0   99.73  1614       XM_007148104.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G185700g)...    Phaseolus vu... NA              3885       1598   1598  58%   0.0   99.54  1294       XM_007148105.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G185700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G185700g) mRNA, complete cds
+Query #60: tr_694 Query ID: lcl|Query_25811 Length: 1334
+Phaseolus vulgaris hypothetical protein (PHAVU_006G167100g)...    Phaseolus vu... NA              3885       2442   2442  100%  0.0   99.70  1408       XM_007147873.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G167100g) mRNA, complete cds
+Query #61: tr_710 Query ID: lcl|Query_25812 Length: 1387
+Phaseolus vulgaris hypothetical protein (PHAVU_007G061000g)...    Phaseolus vu... NA              3885       1836   1836  72%   0.0   99.60  1005       XM_007143241.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G061000g) mRNA, complete cds
+Query #62: tr_714 Query ID: lcl|Query_25813 Length: 1173
+Phaseolus vulgaris hypothetical protein (PHAVU_001G003600g)...    Phaseolus vu... NA              3885       2167   2167  100%  0.0   100.00 1997       XM_007160569.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G003600g) mRNA, complete cds
+Query #63: tr_717 Query ID: lcl|Query_25814 Length: 1858
+Phaseolus vulgaris hypothetical protein (PHAVU_008G287000g)...    Phaseolus vu... NA              3885       3325   3325  96%   0.0   100.00 1807       XM_007142450.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G287000g) mRNA, complete cds
+Query #64: tr_724 Query ID: lcl|Query_25815 Length: 725
+Query #65: tr_746 Query ID: lcl|Query_25816 Length: 394
+Phaseolus vulgaris hypothetical protein (PHAVU_003G045400g)...    Phaseolus vu... NA              3885       702    702   96%   0.0   100.00 1080       XM_007153492.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G045400g) mRNA, complete cds
+Query #66: tr_755 Query ID: lcl|Query_25817 Length: 1341
+Phaseolus vulgaris hypothetical protein (PHAVU_007G066700g)...    Phaseolus vu... NA              3885       2187   2187  89%   0.0   99.50  1202       XM_007143306.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G066700g) mRNA, complete cds
+Query #67: tr_774 Query ID: lcl|Query_25818 Length: 2929
+Phaseolus vulgaris hypothetical protein (PHAVU_007G079300g)...    Phaseolus vu... NA              3885       2145   2145  39%   0.0   100.00 1161       XM_007143468.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G079300g) mRNA, complete cds
+Query #68: tr_779 Query ID: lcl|Query_25819 Length: 703
+Query #69: tr_802 Query ID: lcl|Query_25820 Length: 1193
+Phaseolus vulgaris hypothetical protein (PHAVU_007G009900g)...    Phaseolus vu... NA              3885       1485   1485  70%   0.0   98.46  844        XM_007142643.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G009900g)...    Phaseolus vu... NA              3885       1371   1371  66%   0.0   97.75  793        XM_007142642.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G009900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G009900g) mRNA, complete cds
+Query #70: tr_830 Query ID: lcl|Query_25821 Length: 1784
+Phaseolus vulgaris hypothetical protein (PHAVU_009G032600g)...    Phaseolus vu... NA              3885       1724   1724  52%   0.0   100.00 933        XM_007136211.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G032600g) mRNA, complete cds
+Query #71: tr_832 Query ID: lcl|Query_25822 Length: 1725
+Phaseolus vulgaris hypothetical protein (PHAVU_007G020000g)...    Phaseolus vu... NA              3885       2547   2547  81%   0.0   99.43  1535       XM_007142763.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G020000g)...    Phaseolus vu... NA              3885       1548   1548  49%   0.0   99.30  1243       XM_007142762.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G020000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G020000g) mRNA, complete cds
+Query #72: tr_838 Query ID: lcl|Query_25823 Length: 868
+Phaseolus vulgaris hypothetical protein (PHAVU_001G054200g)...    Phaseolus vu... NA              3885       693    693   43%   0.0    99.74  396        XM_007161183.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G080000g)...    Phaseolus vu... NA              3885       412    412   37%   3e-114 89.67  647        XM_007161499.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G054200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G080000g) mRNA, complete cds
+Query #73: tr_845 Query ID: lcl|Query_25824 Length: 3542
+Phaseolus vulgaris hypothetical protein (PHAVU_002G262700g)...    Phaseolus vu... NA              3885       2785   4408  67%   0.0   99.80  2408       XM_007159671.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G262700g)...    Phaseolus vu... NA              3885       2765   4388  67%   0.0   99.60  2405       XM_007159670.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G262700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G262700g) mRNA, complete cds
+Query #74: tr_850 Query ID: lcl|Query_25825 Length: 405
+Phaseolus vulgaris hypothetical protein (PHAVU_008G134100g)...    Phaseolus vu... NA              3885       617    617   93%   2e-176 96.57  1316       XM_007140634.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G134100g) mRNA, complete cds
+Query #75: tr_870 Query ID: lcl|Query_25826 Length: 1654
+Phaseolus vulgaris hypothetical protein (PHAVU_007G060800g)...    Phaseolus vu... NA              3885       2512   2512  86%   0.0   98.26  1435       XM_007143239.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G060800g) mRNA, complete cds
+Query #76: tr_881 Query ID: lcl|Query_25827 Length: 3849
+Query #77: tr_888 Query ID: lcl|Query_25828 Length: 3030
+Phaseolus vulgaris hypothetical protein (PHAVU_001G250000g)...    Phaseolus vu... NA              3885       5132   5132  95%   0.0   98.76  2893       XM_007163561.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G250000g) mRNA, complete cds
+Query #78: tr_893 Query ID: lcl|Query_25829 Length: 2931
+Query #79: tr_906 Query ID: lcl|Query_25830 Length: 1964
+Phaseolus vulgaris hypothetical protein (PHAVU_001G117900g)...    Phaseolus vu... NA              3885       3302   3302  93%   0.0   99.13  1889       XM_007161970.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G117900g) mRNA, complete cds
+Query #80: tr_908 Query ID: lcl|Query_25831 Length: 1161
+Query #81: tr_912 Query ID: lcl|Query_25832 Length: 1096
+Query #82: tr_936 Query ID: lcl|Query_25833 Length: 1797
+Phaseolus vulgaris hypothetical protein (PHAVU_002G000600g)...    Phaseolus vu... NA              3885       3068   3068  94%   0.0   99.12  1706       XM_007156516.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G000600g) mRNA, complete cds
+Query #83: tr_952 Query ID: lcl|Query_25834 Length: 2469
+Phaseolus vulgaris hypothetical protein (PHAVU_003G215000g)...    Phaseolus vu... NA              3885       1347   2522  55%   0.0   99.86  1367       XM_007155528.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G215000g) mRNA, complete cds
+Query #84: tr_975 Query ID: lcl|Query_25835 Length: 3012
+Phaseolus vulgaris hypothetical protein (PHAVU_005G147400g)...    Phaseolus vu... NA              3885       3136   4921  89%   0.0   99.36  2703       XM_007150303.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G060000g)...    Phaseolus vu... NA              3885       697    1339  51%   0.0   81.85  1745       XM_007131959.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G147400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G060000g) mRNA, complete cds
+Query #85: tr_980 Query ID: lcl|Query_25836 Length: 2889
+Phaseolus vulgaris hypothetical protein (PHAVU_003G165900g)...    Phaseolus vu... NA              3885       2030   2030  39%   0.0   98.61  1191       XM_007154953.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G165900g) mRNA, complete cds
+Query #86: tr_988 Query ID: lcl|Query_25837 Length: 1865
+Phaseolus vulgaris hypothetical protein (PHAVU_001G111200g)...    Phaseolus vu... NA              3885       2760   2979  87%   0.0   99.80  1620       XM_007161886.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G111200g) mRNA, complete cds
+Query #87: tr_997 Query ID: lcl|Query_25838 Length: 1201
+Phaseolus vulgaris hypothetical protein (PHAVU_002G098600g)...    Phaseolus vu... NA              3885       1478   1478  68%   0.0    99.27  1353       XM_007157725.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G098500g)...    Phaseolus vu... NA              3885       542    542   24%   5e-153 100.00 1763       XM_007157724.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G098600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G098500g) mRNA, complete cds
+Query #88: tr_1001 Query ID: lcl|Query_25839 Length: 3784
+Phaseolus vulgaris hypothetical protein (PHAVU_005G113400g)...    Phaseolus vu... NA              3885       3000   3359  48%   0.0   99.70  1835       XM_007149892.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G113500g)...    Phaseolus vu... NA              3885       2571   2571  39%   0.0   97.92  1479       XM_007149893.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G113400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G113500g) mRNA, complete cds
+Query #89: tr_1021 Query ID: lcl|Query_25840 Length: 832
+Phaseolus vulgaris hypothetical protein (PHAVU_005G107800g)...    Phaseolus vu... NA              3885       1341   1341  97%   0.0   96.79  970        XM_007149832.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G107800g) mRNA, complete cds
+Query #90: tr_1030 Query ID: lcl|Query_25841 Length: 722
+Phaseolus vulgaris hypothetical protein (PHAVU_008G047800g)...    Phaseolus vu... NA              3885       1323   1323  100%  0.0   99.72  3527       XM_007139589.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G047800g) mRNA, complete cds
+Query #91: tr_1031 Query ID: lcl|Query_25842 Length: 1827
+Phaseolus vulgaris hypothetical protein (PHAVU_010G118700g)...    Phaseolus vu... NA              3885       2983   2983  89%   0.0   99.63  1633       XM_007135250.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G118700g) mRNA, complete cds
+Query #92: tr_1034 Query ID: lcl|Query_25843 Length: 925
+Phaseolus vulgaris hypothetical protein (PHAVU_001G221100g)...    Phaseolus vu... NA              3885       1186   1186  70%   0.0   99.39  4065       XM_007163216.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G221100g) mRNA, complete cds
+Query #93: tr_1051 Query ID: lcl|Query_25844 Length: 1013
+Phaseolus vulgaris hypothetical protein (PHAVU_004G120300g)...    Phaseolus vu... NA              3885       1777   1777  95%   0.0   99.79  968        XM_007152263.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G1919001g)...   Phaseolus vu... NA              3885       974    974   74%   0.0   90.04  767        XM_007155267.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G120300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G1919001g) mRNA, complete cds
+Query #94: tr_1070 Query ID: lcl|Query_25845 Length: 556
+Phaseolus vulgaris hypothetical protein (PHAVU_001G259700g)...    Phaseolus vu... NA              3885       1014   1014  100%  0.0   99.64  1155       XM_007163670.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G259700g) mRNA, complete cds
+Query #95: tr_1074 Query ID: lcl|Query_25846 Length: 1437
+Phaseolus vulgaris hypothetical protein (PHAVU_009G256400g)...    Phaseolus vu... NA              3885       2462   2462  92%   0.0   100.00 1333       XM_007138938.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G256400g)...    Phaseolus vu... NA              3885       2388   2388  90%   0.0   99.77  1304       XM_007138939.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G256400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G256400g) mRNA, complete cds
+Query #96: tr_1076 Query ID: lcl|Query_25847 Length: 477
+Query #97: tr_1084 Query ID: lcl|Query_25848 Length: 1028
+Phaseolus vulgaris hypothetical protein (PHAVU_002G158700g)...    Phaseolus vu... NA              3885       1338   1338  73%   0.0   98.80  873        XM_007158453.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G158700g)...    Phaseolus vu... NA              3885       1229   1229  73%   0.0   96.55  857        XM_007158454.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G158700g)...    Phaseolus vu... NA              3885       1216   1216  73%   0.0   96.28  854        XM_007158452.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G158600g)...    Phaseolus vu... NA              3885       1116   1116  90%   0.0   88.57  998        XM_007158451.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G158700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G158700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G158700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G158600g) mRNA, complete cds
+Query #98: tr_1108 Query ID: lcl|Query_25849 Length: 539
+Query #99: tr_1111 Query ID: lcl|Query_25850 Length: 1768
+Query #100: tr_1190 Query ID: lcl|Query_25851 Length: 5459
+Phaseolus vulgaris hypothetical protein (PHAVU_003G282300g)...    Phaseolus vu... NA              3885       3663   3663  36%   0.0   99.95  1986       XM_007156327.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G282300g) mRNA, complete cds
+Query #101: tr_1208 Query ID: lcl|Query_25852 Length: 645
+Phaseolus vulgaris hypothetical protein (PHAVU_001G182700g)...    Phaseolus vu... NA              3885       390    390   32%   9e-108 100.00 1467       XM_007162748.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G182700g) mRNA, complete cds
+Query #102: tr_1244 Query ID: lcl|Query_25853 Length: 2293
+Phaseolus vulgaris hypothetical protein (PHAVU_001G031600g)...    Phaseolus vu... NA              3885       3413   3413  80%   0.0   99.84  2157       XM_007160895.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G031600g) mRNA, complete cds
+Query #103: tr_1249 Query ID: lcl|Query_25854 Length: 943
+Phaseolus vulgaris hypothetical protein (PHAVU_002G068200g)...    Phaseolus vu... NA              3885       1325   1325  76%   0.0   99.59  758        XM_007157353.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G068200g) mRNA, complete cds
+Query #104: tr_1250 Query ID: lcl|Query_25855 Length: 1978
+Phaseolus vulgaris hypothetical protein (PHAVU_006G044700g)...    Phaseolus vu... NA              3885       2226   2226  61%   0.0   99.43  1226       XM_007146425.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G086800g)...    Phaseolus vu... NA              3885       730    730   23%   0.0   95.31  612        XM_007151856.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G268000g)...    Phaseolus vu... NA              3885       213    213   10%   7e-54 85.37  1145       XM_007142228.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G268000g)...    Phaseolus vu... NA              3885       213    213   10%   7e-54 85.37  1127       XM_007142227.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G268000g)...    Phaseolus vu... NA              3885       213    213   10%   7e-54 85.37  1077       XM_007142226.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G044700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G086800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G268000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G268000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G268000g) mRNA, complete cds
+Query #105: tr_1260 Query ID: lcl|Query_25856 Length: 2434
+Phaseolus vulgaris hypothetical protein (PHAVU_007G080000g)...    Phaseolus vu... NA              3885       348    434   9%    2e-94 98.97  240        XM_007143477.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G080000g) mRNA, complete cds
+Query #106: tr_1273 Query ID: lcl|Query_25857 Length: 485
+Query #107: tr_1278 Query ID: lcl|Query_25858 Length: 1928
+Phaseolus vulgaris hypothetical protein (PHAVU_002G195000g)...    Phaseolus vu... NA              3885       1786   1786  56%   0.0   96.06  1127       XM_007158883.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G195000g) mRNA, complete cds
+Query #108: tr_1292 Query ID: lcl|Query_25859 Length: 966
+Phaseolus vulgaris hypothetical protein (PHAVU_002G164400g)...    Phaseolus vu... NA              3885       824    1219  72%   0.0   99.56  750        XM_007158518.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G164400g) mRNA, complete cds
+Query #109: tr_1358 Query ID: lcl|Query_25860 Length: 3811
+Phaseolus vulgaris hypothetical protein (PHAVU_011G003200g)...    Phaseolus vu... NA              3885       6855   6855  99%   0.0   99.37  3787       XM_007131249.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G003200g)...    Phaseolus vu... NA              3885       6791   6791  99%   0.0   99.10  3777       XM_007131250.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G066300g)...    Phaseolus vu... NA              3885       62.1   62.1  1%    5e-08 91.11  2187       XM_007161347.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G115500g)...    Phaseolus vu... NA              3885       62.1   62.1  1%    5e-08 94.87  1996       XM_007140411.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G003200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G003200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G066300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G115500g) mRNA, complete cds
+Query #110: tr_1391 Query ID: lcl|Query_25861 Length: 202
+Query #111: tr_1393 Query ID: lcl|Query_25862 Length: 405
+Query #112: tr_1408 Query ID: lcl|Query_25863 Length: 880
+Query #113: tr_1414 Query ID: lcl|Query_25864 Length: 590
+Phaseolus vulgaris hypothetical protein (PHAVU_001G054800g)...    Phaseolus vu... NA              3885       1044   1044  100%  0.0   98.64  1208       XM_007161190.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G054900g)...    Phaseolus vu... NA              3885       808    808   99%   0.0   91.67  1131       XM_007161191.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G054800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G054900g) mRNA, complete cds
+Query #114: tr_1424 Query ID: lcl|Query_25865 Length: 1212
+Phaseolus vulgaris hypothetical protein (PHAVU_007G198400g)...    Phaseolus vu... NA              3885       2167   2167  100%  0.0   98.93  1330       XM_007144906.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G198400g) mRNA, complete cds
+Query #115: tr_1426 Query ID: lcl|Query_25866 Length: 818
+Phaseolus vulgaris hypothetical protein (PHAVU_009G040500g)...    Phaseolus vu... NA              3885       671    671   44%   0.0   99.73  366        XM_007136317.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G040500g) mRNA, complete cds
+Query #116: tr_1454 Query ID: lcl|Query_25867 Length: 1187
+Phaseolus vulgaris hypothetical protein (PHAVU_008G251800g)...    Phaseolus vu... NA              3885       815    1689  87%   0.0    95.16  2826       XM_007142028.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G203500g)...    Phaseolus vu... NA              3885       628    799   53%   3e-179 88.89  1095       XM_007158977.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G040500g)...    Phaseolus vu... NA              3885       586    586   53%   2e-166 83.93  1149       XM_007151303.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G134800g)...    Phaseolus vu... NA              3885       507    507   34%   2e-142 88.94  868        XM_007158165.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G1466001g)...   Phaseolus vu... NA              3885       448    448   45%   1e-124 82.47  708        XM_007144261.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G102300g)...    Phaseolus vu... NA              3885       235    235   15%   9e-61  90.11  663        XM_007149773.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G102300g)...    Phaseolus vu... NA              3885       235    235   15%   9e-61  90.11  704        XM_007149772.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G251800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G203500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G040500g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G134800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G1466001g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G1466001g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G102300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G102300g) mRNA, complete cds
+Query #117: tr_1467 Query ID: lcl|Query_25868 Length: 700
+Phaseolus vulgaris hypothetical protein (PHAVU_001G225300g)...    Phaseolus vu... NA              3885       1133   1133  90%   0.0   98.90  775        XM_007163263.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G225300g) mRNA, complete cds
+Query #118: tr_1503 Query ID: lcl|Query_25869 Length: 1352
+Phaseolus vulgaris hypothetical protein (PHAVU_003G285300g)...    Phaseolus vu... NA              3885       1989   3044  87%   0.0   97.14  2046       XM_007156369.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G285300g) mRNA, complete cds
+Query #119: tr_1509 Query ID: lcl|Query_25870 Length: 514
+Phaseolus vulgaris hypothetical protein (PHAVU_004G167000g)...    Phaseolus vu... NA              3885       931    931   98%   0.0   100.00 915        XM_007152806.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G167000g) mRNA, complete cds
+Query #120: tr_1542 Query ID: lcl|Query_25871 Length: 1657
+Phaseolus vulgaris hypothetical protein (PHAVU_002G086800g)...    Phaseolus vu... NA              3885       1901   2707  89%   0.0   99.62  1487       XM_007157579.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G086800g) mRNA, complete cds
+Query #121: tr_1558 Query ID: lcl|Query_25872 Length: 812
+Query #122: tr_1565 Query ID: lcl|Query_25873 Length: 737
+Phaseolus vulgaris hypothetical protein (PHAVU_002G015400g)...    Phaseolus vu... NA              3885       339    456   34%   4e-92 98.95  819        XM_007156700.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G015400g) mRNA, complete cds
+Query #123: tr_1584 Query ID: lcl|Query_25874 Length: 1174
+Phaseolus vulgaris hypothetical protein (PHAVU_002G102400g)...    Phaseolus vu... NA              3885       1890   1890  87%   0.0   99.81  1029       XM_007157775.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G102400g) mRNA, complete cds
+Query #124: tr_1586 Query ID: lcl|Query_25875 Length: 1608
+Phaseolus vulgaris hypothetical protein (PHAVU_002G013700g)...    Phaseolus vu... NA              3885       2340   2340  81%   0.0   99.08  1303       XM_007156682.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G013700g)...    Phaseolus vu... NA              3885       1808   2413  83%   0.0   98.91  1484       XM_007156683.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G013700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G013700g) mRNA, complete cds
+Query #125: tr_1596 Query ID: lcl|Query_25876 Length: 1785
+Phaseolus vulgaris hypothetical protein (PHAVU_005G148300g)...    Phaseolus vu... NA              3885       2433   2805  88%   0.0   98.97  1574       XM_007150317.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G148300g) mRNA, complete cds
+Query #126: tr_1599 Query ID: lcl|Query_25877 Length: 1968
+Query #127: tr_1603 Query ID: lcl|Query_25878 Length: 658
+Phaseolus vulgaris hypothetical protein (PHAVU_009G227900g)...    Phaseolus vu... NA              3885       1195   1195  100%  0.0    99.39  3209       XM_007138604.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G227900g)...    Phaseolus vu... NA              3885       536    536   45%   1e-151 99.00  3120       XM_007138606.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G227900g)...    Phaseolus vu... NA              3885       532    532   47%   2e-150 97.74  3035       XM_007138605.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G227900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G227900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G227900g) mRNA, complete cds
+Query #128: tr_1608 Query ID: lcl|Query_25879 Length: 654
+Phaseolus vulgaris hypothetical protein (PHAVU_002G006800g)...    Phaseolus vu... NA              3885       1050   1050  87%   0.0   99.65  581        XM_007156603.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G006800g) mRNA, complete cds
+Query #129: tr_1613 Query ID: lcl|Query_25880 Length: 2537
+Phaseolus vulgaris hypothetical protein (PHAVU_005G148200g)...    Phaseolus vu... NA              3885       1899   3073  69%   0.0    97.51  2029       XM_007150316.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G148200g)...    Phaseolus vu... NA              3885       1173   2885  63%   0.0    98.79  1885       XM_007150315.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G148200g)...    Phaseolus vu... NA              3885       1173   2913  64%   0.0    98.79  1901       XM_007150314.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G148200g)...    Phaseolus vu... NA              3885       1173   2969  65%   0.0    99.08  1930       XM_007150313.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G148200g)...    Phaseolus vu... NA              3885       1173   2996  66%   0.0    99.08  1946       XM_007150312.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G148200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G148200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G148200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G148200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G148200g) mRNA, complete cds
+Query #130: tr_1617 Query ID: lcl|Query_25881 Length: 849
+Query #131: tr_1621 Query ID: lcl|Query_25882 Length: 1506
+Phaseolus vulgaris hypothetical protein (PHAVU_002G221700g)...    Phaseolus vu... NA              3885       1574   1574  57%   0.0   99.20  876        XM_007159185.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G221700g) mRNA, complete cds
+Query #132: tr_1635 Query ID: lcl|Query_25883 Length: 2141
+Phaseolus vulgaris hypothetical protein (PHAVU_004G162200g)...    Phaseolus vu... NA              3885       2135   3278  82%   0.0    100.00 1780       XM_007152755.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G314000g)...    Phaseolus vu... NA              3885       704    1149  68%   0.0    79.52  1889       XM_007160283.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G3141000g)...   Phaseolus vu... NA              3885       387    387   21%   4e-106 81.70  1500       XM_007160285.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G162200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G314000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G3141000g) mRNA, partial cds
+Query #133: tr_1670 Query ID: lcl|Query_25884 Length: 586
+Phaseolus vulgaris hypothetical protein (PHAVU_011G038000g)...    Phaseolus vu... NA              3885       575    575   53%   2e-163 99.68  414        XM_007131678.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G038000g) mRNA, complete cds
+Query #134: tr_1675 Query ID: lcl|Query_25885 Length: 1642
+Phaseolus vulgaris hypothetical protein (PHAVU_002G006700g)...    Phaseolus vu... NA              3885       2161   2161  89%   0.0   93.36  1679       XM_007156602.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G230500g)...    Phaseolus vu... NA              3885       1101   1101  63%   0.0   85.99  1828       XM_007155712.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G006700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G230500g) mRNA, complete cds
+Query #135: tr_1676 Query ID: lcl|Query_25886 Length: 460
+Phaseolus vulgaris hypothetical protein (PHAVU_003G290200g)...    Phaseolus vu... NA              3885       843    897   99%   0.0   99.78  2935       XM_007156426.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G290200g) mRNA, complete cds
+Query #136: tr_1720 Query ID: lcl|Query_25887 Length: 5025
+Query #137: tr_1750 Query ID: lcl|Query_25888 Length: 232
+Phaseolus vulgaris hypothetical protein (PHAVU_003G113000g)...    Phaseolus vu... NA              3885       359    359   86%   9e-99 99.00  462        XM_007154304.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G113000g) mRNA, complete cds
+Query #138: tr_1755 Query ID: lcl|Query_25889 Length: 3917
+Phaseolus vulgaris hypothetical protein (PHAVU_002G311000g)...    Phaseolus vu... NA              3885       2857   3370  47%   0.0   99.68  1923       XM_007160250.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G311000g)...    Phaseolus vu... NA              3885       2377   3864  53%   0.0   99.69  2187       XM_007160249.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G168800g)...    Phaseolus vu... NA              3885       996    996   27%   0.0   83.36  1862       XM_007152827.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G168800g)...    Phaseolus vu... NA              3885       924    924   27%   0.0   82.18  2032       XM_007152829.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G168800g)...    Phaseolus vu... NA              3885       924    924   27%   0.0   82.18  1838       XM_007152828.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G311000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G311000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G168800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G168800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G168800g) mRNA, complete cds
+Query #139: tr_1761 Query ID: lcl|Query_25890 Length: 1690
+Phaseolus vulgaris hypothetical protein (PHAVU_006G045700g)...    Phaseolus vu... NA              3885       1947   2306  82%   0.0   96.86  1367       XM_007146435.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G045700g) mRNA, complete cds
+Query #140: tr_1763 Query ID: lcl|Query_25891 Length: 3548
+Phaseolus vulgaris hypothetical protein (PHAVU_004G0542000g)...   Phaseolus vu... NA              3885       1495   1715  26%   0.0    99.16  944        XM_007151464.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G0542000g)...   Phaseolus vu... NA              3885       1491   1889  29%   0.0    99.16  1040       XM_007151463.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G0542001g)...   Phaseolus vu... NA              3885       538    538   8%    2e-151 100.00 291        XM_007151461.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G0542000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G0542000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G0542001g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G0542001g) mRNA, partial cds
+Query #141: tr_1773 Query ID: lcl|Query_25892 Length: 3822
+Phaseolus vulgaris hypothetical protein (PHAVU_006G189900g)...    Phaseolus vu... NA              3885       4929   5989  86%   0.0   99.20  3364       XM_007148154.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G224100g)...    Phaseolus vu... NA              3885       1013   1570  54%   0.0   83.02  2744       XM_007159212.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G224100g)...    Phaseolus vu... NA              3885       1013   1527  50%   0.0   83.02  2555       XM_007159211.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G189900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G224100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G224100g) mRNA, complete cds
+Query #142: tr_1788 Query ID: lcl|Query_25893 Length: 1342
+Phaseolus vulgaris hypothetical protein (PHAVU_003G165900g)...    Phaseolus vu... NA              3885       2100   2100  88%   0.0   98.49  1191       XM_007154953.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G165900g) mRNA, complete cds
+Query #143: tr_1799 Query ID: lcl|Query_25894 Length: 3146
+Phaseolus vulgaris hypothetical protein (PHAVU_003G191600g)...    Phaseolus vu... NA              3885       5579   5579  98%   0.0   99.16  3165       XM_007155264.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G189300g)...    Phaseolus vu... NA              3885       1862   1862  67%   0.0   82.50  3354       XM_007138142.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G191600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G189300g) mRNA, complete cds
+Query #144: tr_1806 Query ID: lcl|Query_25895 Length: 1277
+Phaseolus vulgaris hypothetical protein (PHAVU_003G047900g)...    Phaseolus vu... NA              3885       2082   2082  88%   0.0   99.74  1136       XM_007153523.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G047900g) mRNA, complete cds
+Query #145: tr_1819 Query ID: lcl|Query_25896 Length: 1694
+Phaseolus vulgaris hypothetical protein (PHAVU_004G120700g)...    Phaseolus vu... NA              3885       2763   2763  90%   0.0   99.28  1529       XM_007152267.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G120800g)...    Phaseolus vu... NA              3885       889    889   69%   0.0   80.52  1266       XM_007152268.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G120700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G120800g) mRNA, complete cds
+Query #146: tr_1827 Query ID: lcl|Query_25897 Length: 779
+Phaseolus vulgaris hypothetical protein (PHAVU_005G041000g)...    Phaseolus vu... NA              3885       843    843   60%   0.0   99.15  468        XM_007149036.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G041000g) mRNA, complete cds
+Query #147: tr_1830 Query ID: lcl|Query_25898 Length: 1066
+Phaseolus vulgaris hypothetical protein (PHAVU_001G247700g)...    Phaseolus vu... NA              3885       1637   1637  92%   0.0   96.26  1328       XM_007163533.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G247700g) mRNA, complete cds
+Query #148: tr_1832 Query ID: lcl|Query_25899 Length: 1479
+Phaseolus vulgaris hypothetical protein (PHAVU_003G170800g)...    Phaseolus vu... NA              3885       2484   2484  93%   0.0   99.20  1389       XM_007155010.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G170800g) mRNA, complete cds
+Query #149: tr_1855 Query ID: lcl|Query_25900 Length: 1108
+Phaseolus vulgaris hypothetical protein (PHAVU_003G160600g)...    Phaseolus vu... NA              3885       1495   1495  73%   0.0   100.00 826        XM_007154886.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G160600g) mRNA, complete cds
+Query #150: tr_1863 Query ID: lcl|Query_25901 Length: 1618
+Phaseolus vulgaris hypothetical protein (PHAVU_008G249600g)...    Phaseolus vu... NA              3885       2579   2579  86%   0.0   100.00 1396       XM_007142003.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G249600g)...    Phaseolus vu... NA              3885       795    1294  43%   0.0   100.00 697        XM_007142004.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G249600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G249600g) mRNA, complete cds
+Query #151: tr_1877 Query ID: lcl|Query_25902 Length: 1060
+Phaseolus vulgaris hypothetical protein (PHAVU_001G247700g)...    Phaseolus vu... NA              3885       1869   1869  96%   0.0   99.71  1328       XM_007163533.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G247700g) mRNA, complete cds
+Query #152: tr_1886 Query ID: lcl|Query_25903 Length: 1690
+Phaseolus vulgaris hypothetical protein (PHAVU_002G045300g)...    Phaseolus vu... NA              3885       3103   3103  99%   0.0   100.00 1731       XM_007157068.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G045300g)...    Phaseolus vu... NA              3885       3057   3057  99%   0.0   99.58  1724       XM_007157067.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G045300g)...    Phaseolus vu... NA              3885       1884   3108  99%   0.0   100.00 1761       XM_007157069.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G045300g)...    Phaseolus vu... NA              3885       1838   3062  99%   0.0   99.31  1754       XM_007157066.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G045300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G045300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G045300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G045300g) mRNA, complete cds
+Query #153: tr_1897 Query ID: lcl|Query_25904 Length: 459
+Phaseolus vulgaris hypothetical protein (PHAVU_009G222000g)...    Phaseolus vu... NA              3885       95.3   95.3  13%   6e-19 93.65  225        XM_007138531.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G222000g) mRNA, complete cds
+Query #154: tr_1937 Query ID: lcl|Query_25905 Length: 948
+Phaseolus vulgaris hypothetical protein (PHAVU_004G127400g)...    Phaseolus vu... NA              3885       1367   1367  78%   0.0   99.87  743        XM_007152344.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G111700g)...    Phaseolus vu... NA              3885       134    134   13%   3e-30 85.71  444        XM_007143838.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G127400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G111700g) mRNA, complete cds
+Query #155: tr_1938 Query ID: lcl|Query_25906 Length: 1730
+Phaseolus vulgaris hypothetical protein (PHAVU_004G083900g)...    Phaseolus vu... NA              3885       2994   2994  94%   0.0   99.88  1627       XM_007151823.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G083900g) mRNA, complete cds
+Query #156: tr_1964 Query ID: lcl|Query_25907 Length: 612
+Phaseolus vulgaris hypothetical protein (PHAVU_003G280900g)...    Phaseolus vu... NA              3885       327    327   28%   7e-89 100.00 1359       XM_007156312.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G280900g) mRNA, complete cds
+Query #157: tr_2000 Query ID: lcl|Query_25908 Length: 1090
+Phaseolus vulgaris hypothetical protein (PHAVU_005G134900g)...    Phaseolus vu... NA              3885       1456   1456  72%   0.0   100.00 875        XM_007150138.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G134900g) mRNA, complete cds
+Query #158: tr_2009 Query ID: lcl|Query_25909 Length: 1474
+Phaseolus vulgaris hypothetical protein (PHAVU_002G035800g)...    Phaseolus vu... NA              3885       1541   2214  83%   0.0   99.30  1243       XM_007156944.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G035800g) mRNA, complete cds
+Query #159: tr_2012 Query ID: lcl|Query_25910 Length: 1217
+Phaseolus vulgaris hypothetical protein (PHAVU_001G007700g)...    Phaseolus vu... NA              3885       2143   2143  95%   0.0   100.00 1160       XM_007160616.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G167000g)...    Phaseolus vu... NA              3885       1232   1232  75%   0.0   90.74  1092       XM_007137864.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G007700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G167000g) mRNA, complete cds
+Query #160: tr_2037 Query ID: lcl|Query_25911 Length: 1837
+Phaseolus vulgaris hypothetical protein (PHAVU_006G170800g)...    Phaseolus vu... NA              3885       3299   3299  97%   0.0   99.94  1816       XM_007147921.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G170800g) mRNA, complete cds
+Query #161: tr_2040 Query ID: lcl|Query_25912 Length: 683
+Phaseolus vulgaris hypothetical protein (PHAVU_002G252800g)...    Phaseolus vu... NA              3885       1026   1026  81%   0.0   100.00 555        XM_007159559.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G252800g) mRNA, complete cds
+Query #162: tr_2044 Query ID: lcl|Query_25913 Length: 2212
+Phaseolus vulgaris hypothetical protein (PHAVU_005G129500g)...    Phaseolus vu... NA              3885       1736   1736  59%   0.0    90.43  1323       XM_007150071.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G1292001g)...   Phaseolus vu... NA              3885       1607   1607  39%   0.0    99.77  892        XM_007150067.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G1292000g)...   Phaseolus vu... NA              3885       1389   1389  34%   0.0    99.74  765        XM_007150068.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G129300g)...    Phaseolus vu... NA              3885       959    959   25%   0.0    97.35  609        XM_007150069.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G038000g)...    Phaseolus vu... NA              3885       658    658   57%   0.0    76.33  1673       XM_007153406.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G129400g)...    Phaseolus vu... NA              3885       473    473   16%   3e-132 90.56  443        XM_007150070.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G065600g)...    Phaseolus vu... NA              3885       62.1   62.1  2%    3e-08  89.58  2184       XM_007146677.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G129500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G1292001g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G1292000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G129300g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G038000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G129400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G065600g) mRNA, complete cds
+Query #163: tr_2047 Query ID: lcl|Query_25914 Length: 2205
+Phaseolus vulgaris hypothetical protein (PHAVU_006G038200g)...    Phaseolus vu... NA              3885       3923   3923  97%   0.0   99.58  2425       XM_007146348.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G038200g) mRNA, complete cds
+Query #164: tr_2050 Query ID: lcl|Query_25915 Length: 1469
+Phaseolus vulgaris hypothetical protein (PHAVU_010G045300g)...    Phaseolus vu... NA              3885       202    202   7%    1e-50 100.00 1035       XM_007134347.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G045300g)...    Phaseolus vu... NA              3885       202    202   7%    1e-50 100.00 1039       XM_007134346.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G045300g)...    Phaseolus vu... NA              3885       108    108   3%    2e-22 100.00 1011       XM_007134345.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G045300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G045300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G045300g) mRNA, complete cds
+Query #165: tr_2055 Query ID: lcl|Query_25916 Length: 3678
+Phaseolus vulgaris hypothetical protein (PHAVU_002G312300g)...    Phaseolus vu... NA              3885       3720   4541  67%   0.0   99.37  2497       XM_007160266.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G312300g) mRNA, complete cds
+Query #166: tr_2109 Query ID: lcl|Query_25917 Length: 5436
+Phaseolus vulgaris hypothetical protein (PHAVU_010G143200g)...    Phaseolus vu... NA              3885       2929   3828  40%   0.0   98.27  2196       XM_007135547.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G143300g)...    Phaseolus vu... NA              3885       2785   4653  49%   0.0   98.42  2695       XM_007135549.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G143400g)...    Phaseolus vu... NA              3885       2490   2674  27%   0.0   98.51  1557       XM_007135548.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G143200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G143300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G143400g) mRNA, complete cds
+Query #167: tr_2110 Query ID: lcl|Query_25918 Length: 2417
+Phaseolus vulgaris hypothetical protein (PHAVU_001G105400g)...    Phaseolus vu... NA              3885       4071   4071  91%   0.0   99.95  2224       XM_007161815.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G105400g)...    Phaseolus vu... NA              3885       2839   3835  85%   0.0   100.00 2092       XM_007161814.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G105400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G105400g) mRNA, complete cds
+Query #168: tr_2138 Query ID: lcl|Query_25919 Length: 1176
+Phaseolus vulgaris hypothetical protein (PHAVU_003G165400g)...    Phaseolus vu... NA              3885       1541   1541  73%   0.0   99.07  1020       XM_007154948.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G090400g)...    Phaseolus vu... NA              3885       327    327   15%   1e-88 99.45  1317       XM_007154038.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G090400g)...    Phaseolus vu... NA              3885       327    327   15%   1e-88 99.45  1253       XM_007154037.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G090400g)...    Phaseolus vu... NA              3885       327    327   15%   1e-88 99.45  1058       XM_007154036.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G165400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G090400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G090400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G090400g) mRNA, complete cds
+Query #169: tr_2142 Query ID: lcl|Query_25920 Length: 696
+Query #170: tr_2145 Query ID: lcl|Query_25921 Length: 669
+Phaseolus vulgaris hypothetical protein (PHAVU_005G106500g)...    Phaseolus vu... NA              3885       1140   1140  92%   0.0   99.84  2024       XM_007149818.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G106500g)...    Phaseolus vu... NA              3885       1140   1140  92%   0.0   99.84  2094       XM_007149817.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G106500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G106500g) mRNA, complete cds
+Query #171: tr_2172 Query ID: lcl|Query_25922 Length: 3444
+Phaseolus vulgaris hypothetical protein (PHAVU_007G069900g)...    Phaseolus vu... NA              3885       4782   4782  75%   0.0   100.00 2589       XM_007143347.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G069900g)...    Phaseolus vu... NA              3885       3757   4391  69%   0.0   99.95  2374       XM_007143349.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G069900g)...    Phaseolus vu... NA              3885       3757   4652  73%   0.0   100.00 2515       XM_007143345.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G069900g)...    Phaseolus vu... NA              3885       3435   4653  73%   0.0   100.00 2669       XM_007143348.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G069900g)...    Phaseolus vu... NA              3885       3435   4783  75%   0.0   100.00 2743       XM_007143346.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G069900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G069900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G069900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G069900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G069900g) mRNA, complete cds
+Query #172: tr_2187 Query ID: lcl|Query_25923 Length: 1442
+Phaseolus vulgaris hypothetical protein (PHAVU_006G173700g)...    Phaseolus vu... NA              3885       2663   2663  100%  0.0   100.00 1534       XM_007147956.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G173700g) mRNA, complete cds
+Query #173: tr_2202 Query ID: lcl|Query_25924 Length: 2781
+Phaseolus vulgaris hypothetical protein (PHAVU_002G052000g)...    Phaseolus vu... NA              3885       4706   4706  91%   0.0    99.92  2554       XM_007157151.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G045100g)...    Phaseolus vu... NA              3885       2076   2076  65%   0.0    87.24  2387       XM_007143054.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G082200g)...    Phaseolus vu... NA              3885       477    477   38%   3e-133 75.02  2401       XM_007140015.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G052000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G045100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G082200g) mRNA, complete cds
+Query #174: tr_2213 Query ID: lcl|Query_25925 Length: 1288
+Phaseolus vulgaris hypothetical protein (PHAVU_003G140500g)...    Phaseolus vu... NA              3885       2148   2148  90%   0.0   100.00 1163       XM_007154640.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G140500g) mRNA, complete cds
+Query #175: tr_2242 Query ID: lcl|Query_25926 Length: 1622
+Query #176: tr_2282 Query ID: lcl|Query_25927 Length: 480
+Phaseolus vulgaris hypothetical protein (PHAVU_005G110300g)...    Phaseolus vu... NA              3885       881    881   100%  0.0   99.79  2436       XM_007149859.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G110300g) mRNA, complete cds
+Query #177: tr_2283 Query ID: lcl|Query_25928 Length: 416
+Phaseolus vulgaris hypothetical protein (PHAVU_006G187200g)...    Phaseolus vu... NA              3885       758    758   100%  0.0   99.52  1228       XM_007148120.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G187200g) mRNA, complete cds
+Query #178: tr_2303 Query ID: lcl|Query_25929 Length: 593
+Phaseolus vulgaris hypothetical protein (PHAVU_006G054800g)...    Phaseolus vu... NA              3885       230    230   21%   2e-59 99.21  381        XM_007146549.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G054800g) mRNA, complete cds
+Query #179: tr_2315 Query ID: lcl|Query_25930 Length: 495
+Phaseolus vulgaris hypothetical protein (PHAVU_007G126800g)...    Phaseolus vu... NA              3885       721    721   90%   0.0    95.58  873        XM_007144016.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G161700g)...    Phaseolus vu... NA              3885       595    595   79%   1e-169 94.01  887        XM_007140972.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G112200g)...    Phaseolus vu... NA              3885       514    514   65%   4e-145 95.14  1117       XM_007152166.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G126800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G161700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G112200g) mRNA, complete cds
+Query #180: tr_2327 Query ID: lcl|Query_25931 Length: 646
+Phaseolus vulgaris hypothetical protein (PHAVU_007G063600g)...    Phaseolus vu... NA              3885       416    416   34%   2e-115 100.00 882        XM_007143271.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G063600g)...    Phaseolus vu... NA              3885       272    481   39%   4e-72  100.00 928        XM_007143272.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G063600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G063600g) mRNA, complete cds
+Query #181: tr_2347 Query ID: lcl|Query_25932 Length: 507
+Phaseolus vulgaris hypothetical protein (PHAVU_003G099000g)...    Phaseolus vu... NA              3885       902    902   98%   0.0   99.40  972        XM_007154144.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G099000g) mRNA, complete cds
+Query #182: tr_2354 Query ID: lcl|Query_25933 Length: 2953
+Phaseolus vulgaris hypothetical protein (PHAVU_003G142500g)...    Phaseolus vu... NA              3885       1539   2305  42%   0.0   99.76  1430       XM_007154666.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G142400g)...    Phaseolus vu... NA              3885       1459   1459  26%   0.0   99.87  1075       XM_007154665.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G142500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G142400g) mRNA, complete cds
+Query #183: tr_2378 Query ID: lcl|Query_25934 Length: 2348
+Phaseolus vulgaris hypothetical protein (PHAVU_005G075500g)...    Phaseolus vu... NA              3885       920    1729  40%   0.0    99.80  936        XM_007149437.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G075400g)...    Phaseolus vu... NA              3885       627    627   35%   2e-178 80.51  1297       XM_007149436.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G075500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G075400g) mRNA, complete cds
+Query #184: tr_2413 Query ID: lcl|Query_25935 Length: 2164
+Phaseolus vulgaris hypothetical protein (PHAVU_010G129000g)...    Phaseolus vu... NA              3885       1618   3187  80%   0.0   99.22  1749       XM_007135371.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G129000g) mRNA, complete cds
+Query #185: tr_2464 Query ID: lcl|Query_25936 Length: 1684
+Phaseolus vulgaris hypothetical protein (PHAVU_008G127200g)...    Phaseolus vu... NA              3885       2435   2435  78%   0.0   99.70  1330       XM_007140555.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G127400g)...    Phaseolus vu... NA              3885       2217   2217  77%   0.0   97.46  1337       XM_007140557.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G127200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G127400g) mRNA, complete cds
+Query #186: tr_2468 Query ID: lcl|Query_25937 Length: 3588
+Phaseolus vulgaris hypothetical protein (PHAVU_002G333000g)...    Phaseolus vu... NA              3885       6621   6621  100%  0.0   99.97  3907       XM_007160509.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G333000g) mRNA, complete cds
+Query #187: tr_2474 Query ID: lcl|Query_25938 Length: 533
+Query #188: tr_2480 Query ID: lcl|Query_25939 Length: 483
+Query #189: tr_2500 Query ID: lcl|Query_25940 Length: 1128
+Query #190: tr_2502 Query ID: lcl|Query_25941 Length: 1184
+Phaseolus vulgaris hypothetical protein (PHAVU_003G066900g)...    Phaseolus vu... NA              3885       981    981   46%   0.0    98.73  3564       XM_007153751.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G067100g)...    Phaseolus vu... NA              3885       544    544   25%   1e-153 99.66  315        XM_007153753.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G066900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G067100g) mRNA, complete cds
+Query #191: tr_2534 Query ID: lcl|Query_25942 Length: 439
+Phaseolus vulgaris hypothetical protein (PHAVU_005G038300g)...    Phaseolus vu... NA              3885       486    486   63%   8e-137 98.20  278        XM_007149006.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G038300g) mRNA, complete cds
+Query #192: tr_2539 Query ID: lcl|Query_25943 Length: 724
+Phaseolus vulgaris hypothetical protein (PHAVU_009G225400g)...    Phaseolus vu... NA              3885       1338   1338  100%  0.0   100.00 2028       XM_007138574.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G225400g) mRNA, complete cds
+Query #193: tr_2552 Query ID: lcl|Query_25944 Length: 764
+Phaseolus vulgaris hypothetical protein (PHAVU_003G168000g)...    Phaseolus vu... NA              3885       1406   1406  100%  0.0   99.87  1961       XM_007154980.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G168000g)...    Phaseolus vu... NA              3885       1406   1406  100%  0.0   99.87  1889       XM_007154979.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G168000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G168000g) mRNA, complete cds
+Query #194: tr_2566 Query ID: lcl|Query_25945 Length: 1768
+Phaseolus vulgaris hypothetical protein (PHAVU_011G080400g)...    Phaseolus vu... NA              3885       1705   2794  87%   0.0   99.68  1538       XM_007132206.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G080400g) mRNA, complete cds
+Query #195: tr_2571 Query ID: lcl|Query_25946 Length: 447
+Query #196: tr_2575 Query ID: lcl|Query_25947 Length: 1360
+Phaseolus vulgaris hypothetical protein (PHAVU_011G206300g)...    Phaseolus vu... NA              3885       2512   2512  100%  0.0   100.00 3072       XM_007133690.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G026200g)...    Phaseolus vu... NA              3885       664    664   68%   0.0   80.08  2295       XM_007148868.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G206300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G026200g) mRNA, complete cds
+Query #197: tr_2598 Query ID: lcl|Query_25948 Length: 474
+Query #198: tr_2600 Query ID: lcl|Query_25949 Length: 633
+Query #199: tr_2606 Query ID: lcl|Query_25950 Length: 1478
+Phaseolus vulgaris hypothetical protein (PHAVU_004G149100g)...    Phaseolus vu... NA              3885       2409   2409  91%   0.0   98.82  2253       XM_007152606.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G149100g) mRNA, complete cds
+Query #200: tr_2635 Query ID: lcl|Query_25951 Length: 752
+Query #201: tr_2648 Query ID: lcl|Query_25952 Length: 709
+Phaseolus vulgaris hypothetical protein (PHAVU_003G274200g)...    Phaseolus vu... NA              3885       1099   1099  85%   0.0   99.18  1030       XM_007156229.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G274200g)...    Phaseolus vu... NA              3885       1099   1099  85%   0.0   99.18  1027       XM_007156228.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G100700g)...    Phaseolus vu... NA              3885       121    121   12%   2e-26 91.95  804        XM_007132452.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G274200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G274200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G100700g) mRNA, complete cds
+Query #202: tr_2685 Query ID: lcl|Query_25953 Length: 487
+Query #203: tr_2740 Query ID: lcl|Query_25954 Length: 673
+Query #204: tr_2753 Query ID: lcl|Query_25955 Length: 903
+Phaseolus vulgaris hypothetical protein (PHAVU_003G184700g)...    Phaseolus vu... NA              3885       1103   1103  89%   0.0   91.50  1371       XM_007155173.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G184700g) mRNA, complete cds
+Query #205: tr_2759 Query ID: lcl|Query_25956 Length: 1677
+Phaseolus vulgaris hypothetical protein (PHAVU_011G184000g)...    Phaseolus vu... NA              3885       518    518   26%   1e-145 87.61  6248       XM_007133437.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G033600g)...    Phaseolus vu... NA              3885       418    598   19%   1e-115 100.00 321        XM_007134214.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G027800g)...    Phaseolus vu... NA              3885       340    340   20%   3e-92  84.18  486        XM_007142853.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G184000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G033600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G027800g) mRNA, partial cds
+Query #206: tr_2772 Query ID: lcl|Query_25957 Length: 275
+Phaseolus vulgaris hypothetical protein (PHAVU_004G037500g)...    Phaseolus vu... NA              3885       503    503   100%  5e-142 99.64  3838       XM_007151272.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G037500g) mRNA, complete cds
+Query #207: tr_2792 Query ID: lcl|Query_25958 Length: 1569
+Phaseolus vulgaris hypothetical protein (PHAVU_009G143700g)...    Phaseolus vu... NA              3885       1820   1820  63%   0.0   99.80  2769       XM_007137582.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G143700g) mRNA, complete cds
+Query #208: tr_2793 Query ID: lcl|Query_25959 Length: 1064
+Phaseolus vulgaris hypothetical protein (PHAVU_007G263700g)...    Phaseolus vu... NA              3885       889    889   47%   0.0    98.61  913        XM_007145678.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G264000g)...    Phaseolus vu... NA              3885       839    839   43%   0.0    99.57  871        XM_007145681.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G263500g)...    Phaseolus vu... NA              3885       599    694   46%   2e-170 91.84  1195       XM_007145676.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G178800g)...    Phaseolus vu... NA              3885       213    213   15%   4e-54  90.62  738        XM_007152946.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G263700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G264000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G263500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G178800g) mRNA, complete cds
+Query #209: tr_2827 Query ID: lcl|Query_25960 Length: 1524
+Phaseolus vulgaris hypothetical protein (PHAVU_002G212400g)...    Phaseolus vu... NA              3885       542    742   26%   6e-153 100.00 540        XM_007159081.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G212400g) mRNA, complete cds
+Query #210: tr_2879 Query ID: lcl|Query_25961 Length: 2174
+Phaseolus vulgaris hypothetical protein (PHAVU_011G038700g)...    Phaseolus vu... NA              3885       1989   2725  68%   0.0   99.72  1488       XM_007131686.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G038700g) mRNA, complete cds
+Query #211: tr_2880 Query ID: lcl|Query_25962 Length: 1301
+Phaseolus vulgaris hypothetical protein (PHAVU_009G005100g)...    Phaseolus vu... NA              3885       2115   2242  93%   0.0   99.83  1325       XM_007135883.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G005100g) mRNA, complete cds
+Query #212: tr_2897 Query ID: lcl|Query_25963 Length: 272
+Phaseolus vulgaris hypothetical protein (PHAVU_010G013100g)...    Phaseolus vu... NA              3885       399    399   82%   6e-111 98.67  1511       XM_007133965.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G012900g)...    Phaseolus vu... NA              3885       374    374   76%   4e-103 99.04  1758       XM_007133963.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G013000g)...    Phaseolus vu... NA              3885       368    368   76%   2e-101 98.56  1638       XM_007133964.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G013100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G012900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G013000g) mRNA, complete cds
+Query #213: tr_2906 Query ID: lcl|Query_25964 Length: 1176
+Phaseolus vulgaris hypothetical protein (PHAVU_004G108600g)...    Phaseolus vu... NA              3885       2106   2106  97%   0.0   99.83  1146       XM_007152121.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G1079000g)...   Phaseolus vu... NA              3885       641    641   53%   0.0   85.10  1027       XM_007152112.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G1079001g)...   Phaseolus vu... NA              3885       147    147   14%   4e-34 81.92  499        XM_007152111.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G108600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G1079000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G1079001g) mRNA, partial cds
+Query #214: tr_2919 Query ID: lcl|Query_25965 Length: 412
+Phaseolus vulgaris hypothetical protein (PHAVU_002G306800g)...    Phaseolus vu... NA              3885       761    761   100%  0.0   100.00 1897       XM_007160204.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G134700g)...    Phaseolus vu... NA              3885       176    176   25%   2e-43 96.26  288        XM_007132841.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G306800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G134700g) mRNA, complete cds
+Query #215: tr_2962 Query ID: lcl|Query_25966 Length: 266
+Phaseolus vulgaris hypothetical protein (PHAVU_004G041400g)...    Phaseolus vu... NA              3885       492    492   100%  1e-138 100.00 1740       XM_007151312.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G041400g) mRNA, complete cds
+Query #216: tr_3011 Query ID: lcl|Query_25967 Length: 2308
+Phaseolus vulgaris hypothetical protein (PHAVU_002G023900g)...    Phaseolus vu... NA              3885       4244   4244  100%  0.0   99.87  2606       XM_007156802.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G023900g)...    Phaseolus vu... NA              3885       3674   4253  100%  0.0   99.85  2701       XM_007156801.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G023900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G023900g) mRNA, complete cds
+Query #217: tr_3018 Query ID: lcl|Query_25968 Length: 390
+Query #218: tr_3044 Query ID: lcl|Query_25969 Length: 1592
+Phaseolus vulgaris hypothetical protein (PHAVU_010G054400g)...    Phaseolus vu... NA              3885       2322   2621  89%   0.0   96.26  1648       XM_007134459.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G055200g)...    Phaseolus vu... NA              3885       1491   1491  86%   0.0   86.50  3465       XM_007134469.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G054200g)...    Phaseolus vu... NA              3885       1421   1421  86%   0.0   85.56  3281       XM_007134457.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G054200g)...    Phaseolus vu... NA              3885       1421   1421  86%   0.0   85.56  3740       XM_007134456.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G054200g)...    Phaseolus vu... NA              3885       1421   1421  86%   0.0   85.56  3793       XM_007134455.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G054200g)...    Phaseolus vu... NA              3885       1421   1421  86%   0.0   85.56  3613       XM_007134454.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G055500g)...    Phaseolus vu... NA              3885       1317   1317  79%   0.0   85.70  2283       XM_007134472.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G055100g)...    Phaseolus vu... NA              3885       1088   1088  66%   0.0   85.55  2775       XM_007134468.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G054300g)...    Phaseolus vu... NA              3885       1011   1011  39%   0.0   95.87  820        XM_007134458.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G145600g)...    Phaseolus vu... NA              3885       907    907   46%   0.0   88.86  818        XM_007158291.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G054400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G055200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G054200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G054200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G054200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G054200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G055500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G055100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G054300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G145600g) mRNA, complete cds
+Query #219: tr_3099 Query ID: lcl|Query_25970 Length: 1138
+Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g)...    Phaseolus vu... NA              3885       708    870   41%   0.0   100.00 1751       XM_007138516.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g)...    Phaseolus vu... NA              3885       708    1047  50%   0.0   99.74  1869       XM_007138514.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g)...    Phaseolus vu... NA              3885       658    820   38%   0.0   100.00 1690       XM_007138515.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g)...    Phaseolus vu... NA              3885       658    997   47%   0.0   99.72  1808       XM_007138513.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g) mRNA, complete cds
+Query #220: tr_3109 Query ID: lcl|Query_25971 Length: 833
+Phaseolus vulgaris hypothetical protein (PHAVU_006G063800g)...    Phaseolus vu... NA              3885       1447   1447  99%   0.0   97.86  940        XM_007146656.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G063800g) mRNA, complete cds
+Query #221: tr_3148 Query ID: lcl|Query_25972 Length: 1594
+Phaseolus vulgaris hypothetical protein (PHAVU_006G024000g)...    Phaseolus vu... NA              3885       2381   2381  89%   0.0   96.78  1750       XM_007146178.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G023900g)...    Phaseolus vu... NA              3885       1639   1639  96%   0.0   86.15  1549       XM_007146177.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G024000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G023900g) mRNA, complete cds
+Query #222: tr_3159 Query ID: lcl|Query_25973 Length: 426
+Query #223: tr_3170 Query ID: lcl|Query_25974 Length: 803
+Phaseolus vulgaris hypothetical protein (PHAVU_008G199700g)...    Phaseolus vu... NA              3885       1266   1266  96%   0.0   95.75  2658       XM_007141420.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G199700g) mRNA, complete cds
+Query #224: tr_3196 Query ID: lcl|Query_25975 Length: 787
+Query #225: tr_3200 Query ID: lcl|Query_25976 Length: 598
+Phaseolus vulgaris hypothetical protein (PHAVU_003G007200g)...    Phaseolus vu... NA              3885       809    809   75%   0.0   98.90  2093       XM_007153042.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G007200g) mRNA, complete cds
+Query #226: tr_3219 Query ID: lcl|Query_25977 Length: 266
+Query #227: tr_3223 Query ID: lcl|Query_25978 Length: 2527
+Phaseolus vulgaris hypothetical protein (PHAVU_002G302300g)...    Phaseolus vu... NA              3885       1905   3643  79%   0.0   99.90  2006       XM_007160149.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G302300g) mRNA, complete cds
+Query #228: tr_3262 Query ID: lcl|Query_25979 Length: 730
+Phaseolus vulgaris hypothetical protein (PHAVU_001G068300g)...    Phaseolus vu... NA              3885       1349   1349  100%  0.0   100.00 818        XM_007161372.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G004200g)...    Phaseolus vu... NA              3885       837    940   90%   0.0   92.41  736        XM_007153009.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G068300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G004200g) mRNA, complete cds
+Query #229: tr_3280 Query ID: lcl|Query_25980 Length: 816
+Query #230: tr_3291 Query ID: lcl|Query_25981 Length: 865
+Phaseolus vulgaris hypothetical protein (PHAVU_003G187400g)...    Phaseolus vu... NA              3885       1434   1434  90%   0.0   99.74  842        XM_007155212.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G187400g)...    Phaseolus vu... NA              3885       1321   1321  83%   0.0   99.72  771        XM_007155211.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G187400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G187400g) mRNA, complete cds
+Query #231: tr_3322 Query ID: lcl|Query_25982 Length: 702
+Phaseolus vulgaris hypothetical protein (PHAVU_008G237400g)...    Phaseolus vu... NA              3885       1297   1297  100%  0.0    100.00 1643       XM_007141861.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G237500g)...    Phaseolus vu... NA              3885       549    549   49%   2e-155 95.36  1741       XM_007141862.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G237400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G237500g) mRNA, complete cds
+Query #232: tr_3340 Query ID: lcl|Query_25983 Length: 545
+Query #233: tr_3344 Query ID: lcl|Query_25984 Length: 1023
+Phaseolus vulgaris hypothetical protein (PHAVU_006G139400g)...    Phaseolus vu... NA              3885       1472   1472  79%   0.0   99.26  848        XM_007147553.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G139400g) mRNA, complete cds
+Query #234: tr_3350 Query ID: lcl|Query_25985 Length: 1308
+Query #235: tr_3391 Query ID: lcl|Query_25986 Length: 718
+Phaseolus vulgaris hypothetical protein (PHAVU_006G133200g)...    Phaseolus vu... NA              3885       809    809   61%   0.0   100.00 2858       XM_007147478.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G133200g) mRNA, complete cds
+Query #236: tr_3400 Query ID: lcl|Query_25987 Length: 1996
+Query #237: tr_3410 Query ID: lcl|Query_25988 Length: 1028
+Phaseolus vulgaris hypothetical protein (PHAVU_008G263400g)...    Phaseolus vu... NA              3885       1591   1591  92%   0.0   96.88  1048       XM_007142170.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G263400g) mRNA, complete cds
+Query #238: tr_3414 Query ID: lcl|Query_25989 Length: 963
+Query #239: tr_3415 Query ID: lcl|Query_25990 Length: 2190
+Phaseolus vulgaris hypothetical protein (PHAVU_006G080400g)...    Phaseolus vu... NA              3885       3947   3947  97%   0.0   99.86  2238       XM_007146843.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G080400g) mRNA, complete cds
+Query #240: tr_3450 Query ID: lcl|Query_25991 Length: 811
+Phaseolus vulgaris hypothetical protein (PHAVU_005G143600g)...    Phaseolus vu... NA              3885       1423   1423  95%   0.0    99.74  2514       XM_007150258.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G143600g)...    Phaseolus vu... NA              3885       1423   1423  95%   0.0    99.74  3066       XM_007150257.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G064400g)...    Phaseolus vu... NA              3885       390    390   51%   1e-107 83.65  2745       XM_007132007.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G143600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G143600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G064400g) mRNA, complete cds
+Query #241: tr_3458 Query ID: lcl|Query_25992 Length: 259
+Query #242: tr_3460 Query ID: lcl|Query_25993 Length: 1657
+Phaseolus vulgaris hypothetical protein (PHAVU_001G049400g)...    Phaseolus vu... NA              3885       1075   1075  35%   0.0   99.33  594        XM_007161126.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G049400g) mRNA, complete cds
+Query #243: tr_3467 Query ID: lcl|Query_25994 Length: 1130
+Phaseolus vulgaris hypothetical protein (PHAVU_004G090100g)...    Phaseolus vu... NA              3885       250    432   21%   3e-65 99.28  2259       XM_007151901.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G090100g) mRNA, complete cds
+Query #244: tr_3471 Query ID: lcl|Query_25995 Length: 509
+Phaseolus vulgaris hypothetical protein (PHAVU_006G027400g)...    Phaseolus vu... NA              3885       195    195   30%   6e-49 88.89  2989       XM_007146218.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G027400g) mRNA, complete cds
+Query #245: tr_3483 Query ID: lcl|Query_25996 Length: 1792
+Phaseolus vulgaris hypothetical protein (PHAVU_011G174800g)...    Phaseolus vu... NA              3885       3299   3299  100%  0.0   99.89  1818       XM_007133323.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G174800g) mRNA, complete cds
+Query #246: tr_3513 Query ID: lcl|Query_25997 Length: 1005
+Phaseolus vulgaris hypothetical protein (PHAVU_008G016100g)...    Phaseolus vu... NA              3885       1495   1495  89%   0.0   96.99  884        XM_007139221.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G149700g)...    Phaseolus vu... NA              3885       353    353   34%   2e-96 85.06  840        XM_007162347.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G016100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G149700g) mRNA, complete cds
+Query #247: tr_3531 Query ID: lcl|Query_25998 Length: 1729
+Phaseolus vulgaris hypothetical protein (PHAVU_006G081900g)...    Phaseolus vu... NA              3885       3147   3147  99%   0.0    99.71  1719       XM_007146858.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G081800g)...    Phaseolus vu... NA              3885       2407   2407  95%   0.0    92.90  1664       XM_007146857.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G082000g)...    Phaseolus vu... NA              3885       442    442   16%   7e-123 95.02  342        XM_007146859.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G081900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G081800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G082000g) mRNA, complete cds
+Query #248: tr_3537 Query ID: lcl|Query_25999 Length: 978
+Phaseolus vulgaris hypothetical protein (PHAVU_005G110800g)...    Phaseolus vu... NA              3885       1432   1432  79%   0.0   99.87  1804       XM_007149864.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G110800g)...    Phaseolus vu... NA              3885       1351   1351  75%   0.0   99.73  1803       XM_007149865.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G110800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G110800g) mRNA, complete cds
+Query #249: tr_3540 Query ID: lcl|Query_26000 Length: 3725
+Phaseolus vulgaris hypothetical protein (PHAVU_008G285000g)...    Phaseolus vu... NA              3885       5249   6125  91%   0.0   99.18  3392       XM_007142429.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G285000g) mRNA, complete cds
+Query #250: tr_3604 Query ID: lcl|Query_26001 Length: 999
+Phaseolus vulgaris hypothetical protein (PHAVU_004G018400g)...    Phaseolus vu... NA              3885       1074   1074  59%   0.0   99.16  2051       XM_007151044.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G018400g)...    Phaseolus vu... NA              3885       800    800   44%   0.0   99.10  1642       XM_007151045.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G011400g)...    Phaseolus vu... NA              3885       656    656   36%   0.0   99.45  3836       XM_007156656.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G018400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G018400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G011400g) mRNA, complete cds
+Query #251: tr_3671 Query ID: lcl|Query_26002 Length: 1977
+Phaseolus vulgaris hypothetical protein (PHAVU_002G320700g)...    Phaseolus vu... NA              3885       1550   2984  87%   0.0   98.09  1720       XM_007160362.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G320700g) mRNA, complete cds
+Query #252: tr_3675 Query ID: lcl|Query_26003 Length: 1000
+Query #253: tr_3677 Query ID: lcl|Query_26004 Length: 734
+Phaseolus vulgaris hypothetical protein (PHAVU_006G001200g)...    Phaseolus vu... NA              3885       641    814   62%   0.0   99.16  450        XM_007145897.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G057500g)...    Phaseolus vu... NA              3885       76.8   76.8  6%    3e-13 94.00  587        XM_007149223.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G001200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G057500g) mRNA, complete cds
+Query #254: tr_3683 Query ID: lcl|Query_26005 Length: 740
+Query #255: tr_3722 Query ID: lcl|Query_26006 Length: 1245
+Phaseolus vulgaris hypothetical protein (PHAVU_002G307400g)...    Phaseolus vu... NA              3885       2266   2266  100%  0.0   99.52  1322       XM_007160211.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G307400g) mRNA, complete cds
+Query #256: tr_3737 Query ID: lcl|Query_26007 Length: 2562
+Query #257: tr_3753 Query ID: lcl|Query_26008 Length: 806
+Phaseolus vulgaris hypothetical protein (PHAVU_007G250800g)...    Phaseolus vu... NA              3885       763    997   67%   0.0   99.76  592        XM_007145522.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G250800g) mRNA, complete cds
+Query #258: tr_3756 Query ID: lcl|Query_26009 Length: 2253
+Phaseolus vulgaris hypothetical protein (PHAVU_003G043300g)...    Phaseolus vu... NA              3885       3362   3362  81%   0.0   99.57  1846       XM_007153469.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G043300g) mRNA, complete cds
+Query #259: tr_3776 Query ID: lcl|Query_26010 Length: 1475
+Phaseolus vulgaris hypothetical protein (PHAVU_001G002100g)...    Phaseolus vu... NA              3885       2571   2571  94%   0.0   99.93  1958       XM_007160551.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G002100g) mRNA, complete cds
+Query #260: tr_3783 Query ID: lcl|Query_26011 Length: 704
+Query #261: tr_3791 Query ID: lcl|Query_26012 Length: 1806
+Phaseolus vulgaris hypothetical protein (PHAVU_011G080200g)...    Phaseolus vu... NA              3885       2010   2402  73%   0.0   99.19  1340       XM_007132204.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G080200g) mRNA, complete cds
+Query #262: tr_3823 Query ID: lcl|Query_26013 Length: 2015
+Phaseolus vulgaris hypothetical protein (PHAVU_011G200200g)...    Phaseolus vu... NA              3885       1799   2982  80%   0.0   100.00 1664       XM_007133620.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G200200g) mRNA, complete cds
+Query #263: tr_3844 Query ID: lcl|Query_26014 Length: 441
+Query #264: tr_3849 Query ID: lcl|Query_26015 Length: 762
+Query #265: tr_3852 Query ID: lcl|Query_26016 Length: 724
+Query #266: tr_3866 Query ID: lcl|Query_26017 Length: 408
+Phaseolus vulgaris hypothetical protein (PHAVU_004G098000g)...    Phaseolus vu... NA              3885       725    725   98%   0.0   99.25  1201       XM_007151992.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G098000g) mRNA, complete cds
+Query #267: tr_3873 Query ID: lcl|Query_26018 Length: 806
+Phaseolus vulgaris hypothetical protein (PHAVU_006G158100g)...    Phaseolus vu... NA              3885       1375   1375  92%   0.0   99.87  747        XM_007147762.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G158300g)...    Phaseolus vu... NA              3885       747    747   66%   0.0   91.96  741        XM_007147764.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G158100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G158300g) mRNA, complete cds
+Query #268: tr_3904 Query ID: lcl|Query_26019 Length: 1102
+Query #269: tr_3940 Query ID: lcl|Query_26020 Length: 566
+Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g)...    Phaseolus vu... NA              3885       1035   1035  100%  0.0   99.65  1751       XM_007138516.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g)...    Phaseolus vu... NA              3885       1035   1035  100%  0.0   99.65  1869       XM_007138514.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g)...    Phaseolus vu... NA              3885       931    931   90%   0.0   99.61  1690       XM_007138515.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g)...    Phaseolus vu... NA              3885       931    931   90%   0.0   99.61  1808       XM_007138513.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G220600g) mRNA, complete cds
+Query #270: tr_3943 Query ID: lcl|Query_26021 Length: 610
+Query #271: tr_3958 Query ID: lcl|Query_26022 Length: 1216
+Phaseolus vulgaris hypothetical protein (PHAVU_008G233200g)...    Phaseolus vu... NA              3885       1969   1969  94%   0.0   97.65  1348       XM_007141814.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G233200g)...    Phaseolus vu... NA              3885       1188   1970  94%   0.0   97.29  1419       XM_007141815.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G233200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G233200g) mRNA, complete cds
+Query #272: tr_3961 Query ID: lcl|Query_26023 Length: 939
+Phaseolus vulgaris hypothetical protein (PHAVU_008G268200g)...    Phaseolus vu... NA              3885       1474   1474  87%   0.0   98.91  825        XM_007142230.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G268100g)...    Phaseolus vu... NA              3885       1341   1341  87%   0.0   96.00  825        XM_007142229.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G268200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G268100g) mRNA, complete cds
+Query #273: tr_3982 Query ID: lcl|Query_26024 Length: 3478
+Phaseolus vulgaris hypothetical protein (PHAVU_007G279500g)...    Phaseolus vu... NA              3885       3565   3565  56%   0.0   99.34  1970       XM_007145865.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G110500g)...    Phaseolus vu... NA              3885       1391   1391  42%   0.0   83.56  2002       XM_007143826.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G031300g)...    Phaseolus vu... NA              3885       141    141   7%    6e-32 76.26  2271       XM_007153330.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G279500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G110500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G031300g) mRNA, complete cds
+Query #274: tr_4004 Query ID: lcl|Query_26025 Length: 935
+Phaseolus vulgaris hypothetical protein (PHAVU_002G151400g)...    Phaseolus vu... NA              3885       1703   1703  98%   0.0   100.00 922        XM_007158356.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G151400g) mRNA, complete cds
+Query #275: tr_4028 Query ID: lcl|Query_26026 Length: 728
+Phaseolus vulgaris hypothetical protein (PHAVU_005G071400g)...    Phaseolus vu... NA              3885       839    839   68%   0.0    96.81  503        XM_007149387.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G071300g)...    Phaseolus vu... NA              3885       477    477   53%   8e-134 89.09  560        XM_007149386.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G071400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G071300g) mRNA, complete cds
+Query #276: tr_4041 Query ID: lcl|Query_26027 Length: 662
+Phaseolus vulgaris hypothetical protein (PHAVU_006G122400g)...    Phaseolus vu... NA              3885       721    721   94%   0.0   87.58  692        XM_007147351.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G122400g) mRNA, complete cds
+Query #277: tr_4056 Query ID: lcl|Query_26028 Length: 1701
+Query #278: tr_4075 Query ID: lcl|Query_26029 Length: 556
+Phaseolus vulgaris hypothetical protein (PHAVU_011G085200g)...    Phaseolus vu... NA              3885       1000   1000  100%  0.0    99.10  1343       XM_007132262.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G130900g)...    Phaseolus vu... NA              3885       438    438   84%   3e-122 83.54  1710       XM_007150086.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G085200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G130900g) mRNA, complete cds
+Query #279: tr_4101 Query ID: lcl|Query_26030 Length: 3250
+Phaseolus vulgaris hypothetical protein (PHAVU_001G087000g)...    Phaseolus vu... NA              3885       2623   4604  76%   0.0   99.86  2492       XM_007161587.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G087000g) mRNA, complete cds
+Query #280: tr_4105 Query ID: lcl|Query_26031 Length: 3906
+Phaseolus vulgaris hypothetical protein (PHAVU_001G019800g)...    Phaseolus vu... NA              3885       6953   6953  97%   0.0   99.71  3844       XM_007160763.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G019800g) mRNA, complete cds
+Query #281: tr_4106 Query ID: lcl|Query_26032 Length: 1045
+Phaseolus vulgaris hypothetical protein (PHAVU_003G227600g)...    Phaseolus vu... NA              3885       848    848   43%   0.0    100.00 459        XM_007155678.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G115000g)...    Phaseolus vu... NA              3885       721    721   43%   0.0    94.99  459        XM_007154325.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G119300g)...    Phaseolus vu... NA              3885       717    717   37%   0.0    99.74  2612       XM_007154376.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G119300g)...    Phaseolus vu... NA              3885       717    717   37%   0.0    99.74  2750       XM_007154374.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G119300g)...    Phaseolus vu... NA              3885       460    460   24%   1e-128 99.60  2492       XM_007154377.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G119300g)...    Phaseolus vu... NA              3885       460    460   24%   1e-128 99.60  2630       XM_007154375.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G119300g)...    Phaseolus vu... NA              3885       457    604   31%   2e-127 99.60  2546       XM_007154378.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G119300g)...    Phaseolus vu... NA              3885       457    604   31%   2e-127 99.60  2684       XM_007154373.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G227600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G115000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G119300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G119300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G119300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G119300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G119300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G119300g) mRNA, complete cds
+Query #282: tr_4112 Query ID: lcl|Query_26033 Length: 1254
+Phaseolus vulgaris hypothetical protein (PHAVU_002G306200g)...    Phaseolus vu... NA              3885       2257   2257  98%   0.0    99.76  1320       XM_007160198.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G306400g)...    Phaseolus vu... NA              3885       942    942   67%   0.0    86.85  864        XM_007160200.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G306500g)...    Phaseolus vu... NA              3885       926    926   67%   0.0    86.52  894        XM_007160201.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G189000g)...    Phaseolus vu... NA              3885       569    1065  53%   2e-161 93.26  1365       XM_007158812.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G306200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G306400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G306500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G189000g) mRNA, complete cds
+Query #283: tr_4153 Query ID: lcl|Query_26034 Length: 770
+Phaseolus vulgaris hypothetical protein (PHAVU_010G134900g)...    Phaseolus vu... NA              3885       1077   1077  81%   0.0    97.78  2991       XM_007135444.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G134800g)...    Phaseolus vu... NA              3885       484    484   55%   5e-136 87.32  2856       XM_007135443.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G135000g)...    Phaseolus vu... NA              3885       207    207   36%   1e-52  80.49  2818       XM_007135445.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G134900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G134800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G135000g) mRNA, complete cds
+Query #284: tr_4154 Query ID: lcl|Query_26035 Length: 1978
+Phaseolus vulgaris hypothetical protein (PHAVU_009G008900g)...    Phaseolus vu... NA              3885       3134   3134  85%   0.0   100.00 1697       XM_007135927.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G008900g) mRNA, complete cds
+Query #285: tr_4166 Query ID: lcl|Query_26036 Length: 415
+Query #286: tr_4185 Query ID: lcl|Query_26037 Length: 1692
+Phaseolus vulgaris hypothetical protein (PHAVU_008G184600g)...    Phaseolus vu... NA              3885       2898   2898  92%   0.0   99.94  1572       XM_007141243.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G184600g) mRNA, complete cds
+Query #287: tr_4240 Query ID: lcl|Query_26038 Length: 1937
+Phaseolus vulgaris hypothetical protein (PHAVU_006G152600g)...    Phaseolus vu... NA              3885       1240   1317  37%   0.0   99.70  714        XM_007147696.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G152600g) mRNA, complete cds
+Query #288: tr_4298 Query ID: lcl|Query_26039 Length: 1341
+Phaseolus vulgaris hypothetical protein (PHAVU_008G260300g)...    Phaseolus vu... NA              3885       2405   2405  100%  0.0   98.89  2048       XM_007142134.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G260300g) mRNA, complete cds
+Query #289: tr_4325 Query ID: lcl|Query_26040 Length: 1005
+Query #290: tr_4368 Query ID: lcl|Query_26041 Length: 5395
+Phaseolus vulgaris hypothetical protein (PHAVU_009G248400g)...    Phaseolus vu... NA              3885       9101   9101  93%   0.0   99.11  5163       XM_007138852.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G248400g) mRNA, complete cds
+Query #291: tr_4371 Query ID: lcl|Query_26042 Length: 2240
+Phaseolus vulgaris hypothetical protein (PHAVU_011G009100g)...    Phaseolus vu... NA              3885       3110   3110  77%   0.0   98.86  1749       XM_007131320.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G022800g)...    Phaseolus vu... NA              3885       1088   1088  49%   0.0   84.47  1451       XM_007148825.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G009100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G022800g) mRNA, complete cds
+Query #292: tr_4374 Query ID: lcl|Query_26043 Length: 342
+Query #293: tr_4384 Query ID: lcl|Query_26044 Length: 544
+Phaseolus vulgaris hypothetical protein (PHAVU_009G046800g)...    Phaseolus vu... NA              3885       817    817   81%   0.0   100.00 442        XM_007136393.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G046800g)...    Phaseolus vu... NA              3885       739    739   81%   0.0   97.29  430        XM_007136394.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G046800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G046800g) mRNA, complete cds
+Query #294: tr_4385 Query ID: lcl|Query_26045 Length: 718
+Query #295: tr_4396 Query ID: lcl|Query_26046 Length: 2722
+Phaseolus vulgaris hypothetical protein (PHAVU_008G212400g)...    Phaseolus vu... NA              3885       4122   4122  82%   0.0   99.82  2351       XM_007141569.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G281100g)...    Phaseolus vu... NA              3885       848    848   17%   0.0   98.54  1834       XM_007159888.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G212400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G281100g) mRNA, complete cds
+Query #296: tr_4399 Query ID: lcl|Query_26047 Length: 1023
+Query #297: tr_4400 Query ID: lcl|Query_26048 Length: 347
+Phaseolus vulgaris hypothetical protein (PHAVU_008G172200g)...    Phaseolus vu... NA              3885       630    630   100%  3e-180 99.42  1802       XM_007141099.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G172200g) mRNA, complete cds
+Query #298: tr_4443 Query ID: lcl|Query_26049 Length: 1489
+Query #299: tr_4448 Query ID: lcl|Query_26050 Length: 364
+Phaseolus vulgaris hypothetical protein (PHAVU_004G046100g)...    Phaseolus vu... NA              3885       651    651   100%  0.0   98.90  1591       XM_007151374.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G046100g) mRNA, complete cds
+Query #300: tr_4461 Query ID: lcl|Query_26051 Length: 1074
+Query #301: tr_4476 Query ID: lcl|Query_26052 Length: 2275
+Phaseolus vulgaris hypothetical protein (PHAVU_008G021100g)...    Phaseolus vu... NA              3885       1746   2897  69%   0.0   99.69  1587       XM_007139277.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G021100g) mRNA, complete cds
+Query #302: tr_4479 Query ID: lcl|Query_26053 Length: 862
+Phaseolus vulgaris hypothetical protein (PHAVU_008G0847000g)...   Phaseolus vu... NA              3885       1546   1546  98%   0.0   99.65  999        XM_007140044.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G0847000g) mRNA, partial cds
+Query #303: tr_4485 Query ID: lcl|Query_26054 Length: 819
+Phaseolus vulgaris hypothetical protein (PHAVU_007G253600g)...    Phaseolus vu... NA              3885       1469   1469  97%   0.0   99.75  1390       XM_007145552.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G253600g) mRNA, complete cds
+Query #304: tr_4530 Query ID: lcl|Query_26055 Length: 764
+Phaseolus vulgaris hypothetical protein (PHAVU_003G065700g)...    Phaseolus vu... NA              3885       1376   1376  99%   0.0   99.47  883        XM_007153739.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G065700g) mRNA, complete cds
+Query #305: tr_4531 Query ID: lcl|Query_26056 Length: 939
+Phaseolus vulgaris hypothetical protein (PHAVU_006G176400g)...    Phaseolus vu... NA              3885       983    1169  68%   0.0   99.45  1029       XM_007147989.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G176400g) mRNA, complete cds
+Query #306: tr_4578 Query ID: lcl|Query_26057 Length: 1572
+Phaseolus vulgaris hypothetical protein (PHAVU_008G265400g)...    Phaseolus vu... NA              3885       1419   2327  81%   0.0   99.49  1342       XM_007142191.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G265400g) mRNA, complete cds
+Query #307: tr_4579 Query ID: lcl|Query_26058 Length: 1832
+Phaseolus vulgaris hypothetical protein (PHAVU_008G252300g)...    Phaseolus vu... NA              3885       763    1666  61%   0.0   92.67  1608       XM_007142035.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G252400g)...    Phaseolus vu... NA              3885       67.6   67.6  1%    5e-10 100.00 1944       XM_007142036.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G252300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G252400g) mRNA, complete cds
+Query #308: tr_4581 Query ID: lcl|Query_26059 Length: 502
+Phaseolus vulgaris hypothetical protein (PHAVU_001G0656000g)...   Phaseolus vu... NA              3885       708    708   76%   0.0   100.00 383        XM_007161340.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G0656000g) mRNA, partial cds
+Query #309: tr_4582 Query ID: lcl|Query_26060 Length: 592
+Phaseolus vulgaris hypothetical protein (PHAVU_003G134300g)...    Phaseolus vu... NA              3885       911    911   83%   0.0   100.00 5251       XM_007154562.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G134300g) mRNA, complete cds
+Query #310: tr_4595 Query ID: lcl|Query_26061 Length: 934
+Query #311: tr_4657 Query ID: lcl|Query_26062 Length: 1816
+Phaseolus vulgaris hypothetical protein (PHAVU_001G065400g)...    Phaseolus vu... NA              3885       1725   1913  59%   0.0   98.37  1657       XM_007161334.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G065400g) mRNA, complete cds
+Query #312: tr_4721 Query ID: lcl|Query_26063 Length: 1074
+Phaseolus vulgaris hypothetical protein (PHAVU_003G064700g)...    Phaseolus vu... NA              3885       1354   1354  69%   0.0   99.20  751        XM_007153723.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G064700g)...    Phaseolus vu... NA              3885       1295   1295  69%   0.0   98.00  742        XM_007153722.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G064700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G064700g) mRNA, complete cds
+Query #313: tr_4722 Query ID: lcl|Query_26064 Length: 1004
+Phaseolus vulgaris hypothetical protein (PHAVU_010G140500g)...    Phaseolus vu... NA              3885       1676   1676  90%   0.0   100.00 907        XM_007135509.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G045400g)...    Phaseolus vu... NA              3885       870    870   63%   0.0   91.14  1080       XM_007153492.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G140500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G045400g) mRNA, complete cds
+Query #314: tr_4726 Query ID: lcl|Query_26065 Length: 433
+Phaseolus vulgaris hypothetical protein (PHAVU_004G046100g)...    Phaseolus vu... NA              3885       789    789   100%  0.0   99.54  1591       XM_007151374.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G046100g) mRNA, complete cds
+Query #315: tr_4743 Query ID: lcl|Query_26066 Length: 685
+Query #316: tr_4744 Query ID: lcl|Query_26067 Length: 1282
+Phaseolus vulgaris hypothetical protein (PHAVU_010G148600g)...    Phaseolus vu... NA              3885       1602   1602  68%   0.0   99.32  890        XM_007135610.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G148600g) mRNA, complete cds
+Query #317: tr_4753 Query ID: lcl|Query_26068 Length: 1504
+Phaseolus vulgaris hypothetical protein (PHAVU_004G149900g)...    Phaseolus vu... NA              3885       2017   2618  98%   0.0   91.29  2714       XM_007152616.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G149900g) mRNA, complete cds
+Query #318: tr_4761 Query ID: lcl|Query_26069 Length: 396
+Phaseolus vulgaris hypothetical protein (PHAVU_008G257600g)...    Phaseolus vu... NA              3885       710    710   100%  0.0   98.99  1731       XM_007142101.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G257600g)...    Phaseolus vu... NA              3885       710    710   100%  0.0   98.99  1802       XM_007142100.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G257600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G257600g) mRNA, complete cds
+Query #319: tr_4780 Query ID: lcl|Query_26070 Length: 2343
+Phaseolus vulgaris hypothetical protein (PHAVU_008G197200g)...    Phaseolus vu... NA              3885       2222   4301  99%   0.0   100.00 2592       XM_007141394.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G197200g) mRNA, complete cds
+Query #320: tr_4792 Query ID: lcl|Query_26071 Length: 927
+Phaseolus vulgaris hypothetical protein (PHAVU_008G081900g)...    Phaseolus vu... NA              3885       1668   1668  100%  0.0    99.14  1913       XM_007140012.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G082100g)...    Phaseolus vu... NA              3885       634    634   37%   0.0    99.71  1000       XM_007140014.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G150800g)...    Phaseolus vu... NA              3885       442    442   49%   4e-123 84.53  1026       XM_007150345.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G111000g)...    Phaseolus vu... NA              3885       270    487   39%   2e-71  89.95  1077       XM_007147222.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G006100g)...    Phaseolus vu... NA              3885       84.2   84.2  6%    3e-15  91.67  932        XM_007133890.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G081900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G082100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G150800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G111000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G006100g) mRNA, complete cds
+Query #321: tr_4794 Query ID: lcl|Query_26072 Length: 1090
+Phaseolus vulgaris hypothetical protein (PHAVU_002G094900g)...    Phaseolus vu... NA              3885       1393   1662  83%   0.0   99.74  2771       XM_007157683.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G094900g) mRNA, complete cds
+Query #322: tr_4806 Query ID: lcl|Query_26073 Length: 407
+Phaseolus vulgaris hypothetical protein (PHAVU_007G012300g)...    Phaseolus vu... NA              3885       699    699   98%   0.0   98.26  1666       XM_007142670.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G012300g) mRNA, complete cds
+Query #323: tr_4834 Query ID: lcl|Query_26074 Length: 471
+Query #324: tr_4837 Query ID: lcl|Query_26075 Length: 399
+Query #325: tr_4843 Query ID: lcl|Query_26076 Length: 519
+Phaseolus vulgaris hypothetical protein (PHAVU_003G0207000g)...   Phaseolus vu... NA              3885       717    717   79%   0.0   97.84  509        XM_007153204.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G0207000g) mRNA, partial cds
+Query #326: tr_4846 Query ID: lcl|Query_26077 Length: 858
+Phaseolus vulgaris hypothetical protein (PHAVU_010G155100g)...    Phaseolus vu... NA              3885       1303   1303  82%   0.0   99.72  711        XM_007135684.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G155100g) mRNA, complete cds
+Query #327: tr_4902 Query ID: lcl|Query_26078 Length: 2198
+Phaseolus vulgaris hypothetical protein (PHAVU_004G018200g)...    Phaseolus vu... NA              3885       4010   4010  100%  0.0   99.59  2270       XM_007151042.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G018200g) mRNA, complete cds
+Query #328: tr_4908 Query ID: lcl|Query_26079 Length: 945
+Phaseolus vulgaris hypothetical protein (PHAVU_003G064700g)...    Phaseolus vu... NA              3885       1354   1354  79%   0.0   99.20  751        XM_007153723.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G064700g)...    Phaseolus vu... NA              3885       1295   1295  79%   0.0   98.00  742        XM_007153722.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G064700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G064700g) mRNA, complete cds
+Query #329: tr_4926 Query ID: lcl|Query_26080 Length: 1125
+Phaseolus vulgaris hypothetical protein (PHAVU_004G055100g)...    Phaseolus vu... NA              3885       976    976   47%   0.0   99.44  989        XM_007151474.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G055100g) mRNA, complete cds
+Query #330: tr_4940 Query ID: lcl|Query_26081 Length: 1172
+Phaseolus vulgaris hypothetical protein (PHAVU_008G161200g)...    Phaseolus vu... NA              3885       1908   1908  91%   0.0   98.88  1117       XM_007140966.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G161200g) mRNA, complete cds
+Query #331: tr_4955 Query ID: lcl|Query_26082 Length: 1811
+Phaseolus vulgaris hypothetical protein (PHAVU_008G126700g)...    Phaseolus vu... NA              3885       1626   2967  89%   0.0   99.66  1715       XM_007140550.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G126700g) mRNA, complete cds
+Query #332: tr_4958 Query ID: lcl|Query_26083 Length: 654
+Phaseolus vulgaris hypothetical protein (PHAVU_010G049200g)...    Phaseolus vu... NA              3885       845    845   72%   0.0   98.74  820        XM_007134398.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G049200g) mRNA, complete cds
+Query #333: tr_4977 Query ID: lcl|Query_26084 Length: 1382
+Phaseolus vulgaris hypothetical protein (PHAVU_006G143200g)...    Phaseolus vu... NA              3885       2322   2322  91%   0.0   99.92  1260       XM_007147594.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G143200g) mRNA, complete cds
+Query #334: tr_4989 Query ID: lcl|Query_26085 Length: 900
+Phaseolus vulgaris hypothetical protein (PHAVU_007G273000g)...    Phaseolus vu... NA              3885       1382   1382  87%   0.0   98.24  876        XM_007145782.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G273000g) mRNA, complete cds
+Query #335: tr_5007 Query ID: lcl|Query_26086 Length: 2978
+Phaseolus vulgaris hypothetical protein (PHAVU_003G081500g)...    Phaseolus vu... NA              3885       4111   4111  87%   0.0   95.00  3139       XM_007153925.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G000300g)...    Phaseolus vu... NA              3885       3626   3626  89%   0.0   91.36  2954       XM_007145888.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G210700g)...    Phaseolus vu... NA              3885       867    867   70%   0.0   74.48  2798       XM_007141550.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G081500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G000300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G210700g) mRNA, complete cds
+Query #336: tr_5025 Query ID: lcl|Query_26087 Length: 659
+Query #337: tr_5037 Query ID: lcl|Query_26088 Length: 2459
+Phaseolus vulgaris hypothetical protein (PHAVU_008G166700g)...    Phaseolus vu... NA              3885       1657   1657  36%   0.0   99.78  2104       XM_007141030.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G166700g)...    Phaseolus vu... NA              3885       1655   2423  53%   0.0   99.67  1871       XM_007141029.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G166700g)...    Phaseolus vu... NA              3885       1655   2508  55%   0.0   99.89  2218       XM_007141028.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G121600g)...    Phaseolus vu... NA              3885       1212   1212  50%   0.0   84.21  2744       XM_007137308.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G121600g)...    Phaseolus vu... NA              3885       1212   1212  50%   0.0   84.21  2681       XM_007137307.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G166700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G166700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G166700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G121600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G121600g) mRNA, complete cds
+Query #338: tr_5047 Query ID: lcl|Query_26089 Length: 615
+Phaseolus vulgaris hypothetical protein (PHAVU_010G086800g)...    Phaseolus vu... NA              3885       1026   1026  90%   0.0   100.00 1114       XM_007134857.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G086800g)...    Phaseolus vu... NA              3885       1026   1026  90%   0.0   100.00 1186       XM_007134856.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G086800g)...    Phaseolus vu... NA              3885       979    979   90%   0.0   98.74  1179       XM_007134858.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G086800g)...    Phaseolus vu... NA              3885       979    979   90%   0.0   98.74  1107       XM_007134855.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G086800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G086800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G086800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G086800g) mRNA, complete cds
+Query #339: tr_5082 Query ID: lcl|Query_26090 Length: 1317
+Query #340: tr_5096 Query ID: lcl|Query_26091 Length: 352
+Query #341: tr_5103 Query ID: lcl|Query_26092 Length: 2046
+Phaseolus vulgaris hypothetical protein (PHAVU_001G049900g)...    Phaseolus vu... NA              3885       1655   2692  71%   0.0   100.00 1574       XM_007161132.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G049900g) mRNA, complete cds
+Query #342: tr_5122 Query ID: lcl|Query_26093 Length: 2005
+Phaseolus vulgaris hypothetical protein (PHAVU_010G012900g)...    Phaseolus vu... NA              3885       3241   3241  87%   0.0    99.94  1758       XM_007133963.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G013000g)...    Phaseolus vu... NA              3885       2614   2614  79%   0.0    96.41  1638       XM_007133964.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G013100g)...    Phaseolus vu... NA              3885       2447   2447  73%   0.0    96.67  1511       XM_007133965.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G0683001g)...   Phaseolus vu... NA              3885       941    941   47%   0.0    84.46  1670       XM_007151635.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G068000g)...    Phaseolus vu... NA              3885       939    939   48%   0.0    84.17  1120       XM_007151630.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G0682000g)...   Phaseolus vu... NA              3885       532    532   27%   5e-150 84.46  586        XM_007151634.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G0683000g)...   Phaseolus vu... NA              3885       527    527   26%   2e-148 84.64  539        XM_007151636.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G0682002g)...   Phaseolus vu... NA              3885       327    327   18%   2e-88  83.01  367        XM_007151633.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G012900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G013000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G013100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G0683001g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G068000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G0682000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G0683000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G0682002g) mRNA, partial cds
+Query #343: tr_5135 Query ID: lcl|Query_26094 Length: 1479
+Phaseolus vulgaris hypothetical protein (PHAVU_004G022600g)...    Phaseolus vu... NA              3885       2466   2561  94%   0.0   99.63  1436       XM_007151093.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G022600g) mRNA, complete cds
+Query #344: tr_5136 Query ID: lcl|Query_26095 Length: 2114
+Phaseolus vulgaris hypothetical protein (PHAVU_006G035500g)...    Phaseolus vu... NA              3885       3731   3731  97%   0.0   99.18  2084       XM_007146318.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G035500g) mRNA, complete cds
+Query #345: tr_5142 Query ID: lcl|Query_26096 Length: 959
+Phaseolus vulgaris hypothetical protein (PHAVU_008G196000g)...    Phaseolus vu... NA              3885       1064   1064  60%   0.0   99.83  579        XM_007141381.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G196000g) mRNA, complete cds
+Query #346: tr_5160 Query ID: lcl|Query_26097 Length: 1287
+Phaseolus vulgaris hypothetical protein (PHAVU_011G175200g)...    Phaseolus vu... NA              3885       1681   1681  90%   0.0    93.08  2702       XM_007133331.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G175000g)...    Phaseolus vu... NA              3885       1589   1589  71%   0.0    97.93  2526       XM_007133325.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G151900g)...    Phaseolus vu... NA              3885       1452   1452  74%   0.0    94.16  2403       XM_007133041.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G175300g)...    Phaseolus vu... NA              3885       998    1254  57%   0.0    96.86  726        XM_007133332.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G175300g)...    Phaseolus vu... NA              3885       725    982   46%   0.0    96.04  575        XM_007133333.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G175000g)...    Phaseolus vu... NA              3885       472    901   41%   7e-132 95.58  2140       XM_007133326.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G175200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G175000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G151900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G175300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G175300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G175000g) mRNA, complete cds
+Query #347: tr_5164 Query ID: lcl|Query_26098 Length: 700
+Phaseolus vulgaris hypothetical protein (PHAVU_001G075100g)...    Phaseolus vu... NA              3885       1293   1293  100%  0.0   100.00 1089       XM_007161446.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G075100g) mRNA, complete cds
+Query #348: tr_5185 Query ID: lcl|Query_26099 Length: 821
+Phaseolus vulgaris hypothetical protein (PHAVU_002G139600g)...    Phaseolus vu... NA              3885       348    348   34%   7e-95 89.01  1644       XM_007158222.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G139600g) mRNA, partial cds
+Query #349: tr_5195 Query ID: lcl|Query_26100 Length: 1749
+Phaseolus vulgaris hypothetical protein (PHAVU_004G099800g)...    Phaseolus vu... NA              3885       2939   2939  99%   0.0   97.14  1862       XM_007152011.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G099800g) mRNA, complete cds
+Query #350: tr_5208 Query ID: lcl|Query_26101 Length: 2547
+Phaseolus vulgaris hypothetical protein (PHAVU_003G071300g)...    Phaseolus vu... NA              3885       614    614   13%   2e-174 99.12  904        XM_007153803.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G036500g)...    Phaseolus vu... NA              3885       52.8   52.8  1%    2e-05  100.00 2549       XM_007153390.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G071300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G036500g) mRNA, complete cds
+Query #351: tr_5212 Query ID: lcl|Query_26102 Length: 472
+Phaseolus vulgaris hypothetical protein (PHAVU_002G173500g)...    Phaseolus vu... NA              3885       86.1   86.1  11%   4e-16 96.15  602        XM_007158620.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G173500g) mRNA, complete cds
+Query #352: tr_5213 Query ID: lcl|Query_26103 Length: 997
+Query #353: tr_5234 Query ID: lcl|Query_26104 Length: 1062
+Query #354: tr_5240 Query ID: lcl|Query_26105 Length: 857
+Phaseolus vulgaris hypothetical protein (PHAVU_002G121400g)...    Phaseolus vu... NA              3885       1471   1471  94%   0.0   99.26  834        XM_007158007.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G121400g) mRNA, complete cds
+Query #355: tr_5252 Query ID: lcl|Query_26106 Length: 265
+Query #356: tr_5262 Query ID: lcl|Query_26107 Length: 1447
+Phaseolus vulgaris hypothetical protein (PHAVU_003G226100g)...    Phaseolus vu... NA              3885       878    1065  41%   0.0   98.21  1409       XM_007155662.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G226100g)...    Phaseolus vu... NA              3885       874    1067  41%   0.0   98.39  1412       XM_007155661.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G226100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G226100g) mRNA, complete cds
+Query #357: tr_5331 Query ID: lcl|Query_26108 Length: 348
+Phaseolus vulgaris hypothetical protein (PHAVU_005G057500g)...    Phaseolus vu... NA              3885       429    429   69%   1e-119 98.76  587        XM_007149223.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G057500g) mRNA, complete cds
+Query #358: tr_5336 Query ID: lcl|Query_26109 Length: 2079
+Phaseolus vulgaris hypothetical protein (PHAVU_009G262500g)...    Phaseolus vu... NA              3885       3818   3818  100%  0.0   99.81  2141       XM_007139009.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G262500g) mRNA, complete cds
+Query #359: tr_5344 Query ID: lcl|Query_26110 Length: 2077
+Phaseolus vulgaris hypothetical protein (PHAVU_001G017800g)...    Phaseolus vu... NA              3885       3502   3502  94%   0.0   98.88  1986       XM_007160740.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G017800g) mRNA, complete cds
+Query #360: tr_5345 Query ID: lcl|Query_26111 Length: 475
+Phaseolus vulgaris hypothetical protein (PHAVU_004G138500g)...    Phaseolus vu... NA              3885       752    752   94%   0.0   96.90  971        XM_007152475.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G138500g) mRNA, complete cds
+Query #361: tr_5358 Query ID: lcl|Query_26112 Length: 1465
+Phaseolus vulgaris hypothetical protein (PHAVU_005G149200g)...    Phaseolus vu... NA              3885       2573   2573  100%  0.0   98.43  1764       XM_007150328.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G149200g) mRNA, complete cds
+Query #362: tr_5437 Query ID: lcl|Query_26113 Length: 5860
+Phaseolus vulgaris hypothetical protein (PHAVU_005G019900g)...    Phaseolus vu... NA              3885       2898   3810  35%   0.0   99.68  2159       XM_007148793.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G019900g)...    Phaseolus vu... NA              3885       2649   3560  33%   0.0   99.72  2021       XM_007148794.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G110100g)...    Phaseolus vu... NA              3885       665    665   7%    0.0   93.44  1054       XM_007132555.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G019900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G019900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G110100g) mRNA, complete cds
+Query #363: tr_5483 Query ID: lcl|Query_26114 Length: 1343
+Phaseolus vulgaris hypothetical protein (PHAVU_002G270600g)...    Phaseolus vu... NA              3885       1125   1125  45%   0.0   100.00 609        XM_007159762.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G270600g) mRNA, complete cds
+Query #364: tr_5516 Query ID: lcl|Query_26115 Length: 1510
+Query #365: tr_5521 Query ID: lcl|Query_26116 Length: 611
+Phaseolus vulgaris hypothetical protein (PHAVU_009G244900g)...    Phaseolus vu... NA              3885       375    375   34%   3e-103 99.05  2141       XM_007138813.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G244900g) mRNA, complete cds
+Query #366: tr_5536 Query ID: lcl|Query_26117 Length: 1201
+Query #367: tr_5543 Query ID: lcl|Query_26118 Length: 2614
+Phaseolus vulgaris hypothetical protein (PHAVU_004G063600g)...    Phaseolus vu... NA              3885       2082   3885  80%   0.0   100.00 2116       XM_007151575.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G063600g) mRNA, complete cds
+Query #368: tr_5554 Query ID: lcl|Query_26119 Length: 1751
+Phaseolus vulgaris hypothetical protein (PHAVU_003G275000g)...    Phaseolus vu... NA              3885       1341   2338  75%   0.0   99.33  1425       XM_007156238.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G275000g) mRNA, complete cds
+Query #369: tr_5577 Query ID: lcl|Query_26120 Length: 550
+Phaseolus vulgaris hypothetical protein (PHAVU_009G249900g)...    Phaseolus vu... NA              3885       728    728   72%   0.0   99.50  862        XM_007138868.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G249900g) mRNA, complete cds
+Query #370: tr_5603 Query ID: lcl|Query_26121 Length: 547
+Phaseolus vulgaris hypothetical protein (PHAVU_011G130400g)...    Phaseolus vu... NA              3885       905    905   92%   0.0   98.82  3730       XM_007132794.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G130400g) mRNA, complete cds
+Query #371: tr_5627 Query ID: lcl|Query_26122 Length: 260
+Query #372: tr_5634 Query ID: lcl|Query_26123 Length: 434
+Query #373: tr_5641 Query ID: lcl|Query_26124 Length: 417
+Query #374: tr_5668 Query ID: lcl|Query_26125 Length: 322
+Query #375: tr_5670 Query ID: lcl|Query_26126 Length: 455
+Phaseolus vulgaris hypothetical protein (PHAVU_002G313700g)...    Phaseolus vu... NA              3885       835    835   100%  0.0   99.78  543        XM_007160280.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G313700g) mRNA, complete cds
+Query #376: tr_5684 Query ID: lcl|Query_26127 Length: 560
+Query #377: tr_5708 Query ID: lcl|Query_26128 Length: 1166
+Phaseolus vulgaris hypothetical protein (PHAVU_006G209600g)...    Phaseolus vu... NA              3885       1986   1986  94%   0.0   99.18  1591       XM_007148385.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G209500g)...    Phaseolus vu... NA              3885       1731   1731  93%   0.0   95.40  1526       XM_007148384.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G209700g)...    Phaseolus vu... NA              3885       1670   1670  99%   0.0   92.45  1701       XM_007148386.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G209600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G209500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G209700g) mRNA, complete cds
+Query #378: tr_5725 Query ID: lcl|Query_26129 Length: 1272
+Phaseolus vulgaris hypothetical protein (PHAVU_003G115100g)...    Phaseolus vu... NA              3885       1134   2098  89%   0.0   99.52  1148       XM_007154326.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G115100g) mRNA, complete cds
+Query #379: tr_5731 Query ID: lcl|Query_26130 Length: 2522
+Phaseolus vulgaris hypothetical protein (PHAVU_002G322500g)...    Phaseolus vu... NA              3885       2337   3740  81%   0.0   99.46  2047       XM_007160380.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G322500g) mRNA, complete cds
+Query #380: tr_5737 Query ID: lcl|Query_26131 Length: 1405
+Phaseolus vulgaris hypothetical protein (PHAVU_003G204000g)...    Phaseolus vu... NA              3885       765    982   43%   0.0   94.90  3870       XM_007155407.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G174800g)...    Phaseolus vu... NA              3885       654    654   34%   0.0   90.84  2887       XM_007137962.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G204000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G174800g) mRNA, complete cds
+Query #381: tr_5751 Query ID: lcl|Query_26132 Length: 2933
+Phaseolus vulgaris hypothetical protein (PHAVU_005G110500g)...    Phaseolus vu... NA              3885       481    576   10%   3e-134 100.00 1257       XM_007149861.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G110500g) mRNA, complete cds
+Query #382: tr_5752 Query ID: lcl|Query_26133 Length: 1011
+Query #383: tr_5770 Query ID: lcl|Query_26134 Length: 802
+Query #384: tr_5827 Query ID: lcl|Query_26135 Length: 1249
+Query #385: tr_5844 Query ID: lcl|Query_26136 Length: 1648
+Phaseolus vulgaris hypothetical protein (PHAVU_011G073500g)...    Phaseolus vu... NA              3885       2839   2839  95%   0.0   99.18  1712       XM_007132126.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G073500g) mRNA, complete cds
+Query #386: tr_5852 Query ID: lcl|Query_26137 Length: 2200
+Phaseolus vulgaris hypothetical protein (PHAVU_002G108700g)...    Phaseolus vu... NA              3885       2704   3616  89%   0.0   99.80  2319       XM_007157854.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G261700g)...    Phaseolus vu... NA              3885       1160   1566  63%   0.0   86.77  2225       XM_007156077.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G261700g)...    Phaseolus vu... NA              3885       1160   1566  63%   0.0   86.77  2396       XM_007156076.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G108700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G261700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G261700g) mRNA, complete cds
+Query #387: tr_5861 Query ID: lcl|Query_26138 Length: 666
+Phaseolus vulgaris hypothetical protein (PHAVU_011G015500g)...    Phaseolus vu... NA              3885       377    377   30%   8e-104 100.00 204        XM_007131400.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G015500g) mRNA, complete cds
+Query #388: tr_5867 Query ID: lcl|Query_26139 Length: 892
+Phaseolus vulgaris hypothetical protein (PHAVU_007G273300g)...    Phaseolus vu... NA              3885       1399   1399  88%   0.0   98.49  2777       XM_007145787.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G273300g)...    Phaseolus vu... NA              3885       1399   1399  88%   0.0   98.49  2660       XM_007145786.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G273300g)...    Phaseolus vu... NA              3885       1399   1399  88%   0.0   98.49  2753       XM_007145785.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G273300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G273300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G273300g) mRNA, complete cds
+Query #389: tr_5907 Query ID: lcl|Query_26140 Length: 1402
+Query #390: tr_5914 Query ID: lcl|Query_26141 Length: 1074
+Phaseolus vulgaris hypothetical protein (PHAVU_008G2149000g)...   Phaseolus vu... NA              3885       1397   1397  70%   0.0   100.00 780        XM_007141603.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G2149001g)...   Phaseolus vu... NA              3885       318    589   29%   8e-86 99.43  372        XM_007141602.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G2149000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G2149001g) mRNA, partial cds
+Query #391: tr_5929 Query ID: lcl|Query_26142 Length: 1034
+Query #392: tr_5952 Query ID: lcl|Query_26143 Length: 931
+Phaseolus vulgaris hypothetical protein (PHAVU_006G160800g)...    Phaseolus vu... NA              3885       1127   1127  71%   0.0   97.16  669        XM_007147796.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G160800g) mRNA, complete cds
+Query #393: tr_5977 Query ID: lcl|Query_26144 Length: 621
+Query #394: tr_5999 Query ID: lcl|Query_26145 Length: 1231
+Query #395: tr_6002 Query ID: lcl|Query_26146 Length: 3127
+Phaseolus vulgaris hypothetical protein (PHAVU_011G179900g)...    Phaseolus vu... NA              3885       4130   4130  75%   0.0   98.42  2397       XM_007133392.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G179900g) mRNA, complete cds
+Query #396: tr_6009 Query ID: lcl|Query_26147 Length: 520
+Phaseolus vulgaris hypothetical protein (PHAVU_005G144900g)...    Phaseolus vu... NA              3885       942    942   98%   0.0   100.00 2853       XM_007150274.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G144900g)...    Phaseolus vu... NA              3885       942    942   98%   0.0   100.00 2791       XM_007150273.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G144900g)...    Phaseolus vu... NA              3885       942    942   98%   0.0   100.00 2937       XM_007150272.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G144900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G144900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G144900g) mRNA, complete cds
+Query #397: tr_6049 Query ID: lcl|Query_26148 Length: 507
+Phaseolus vulgaris hypothetical protein (PHAVU_003G007200g)...    Phaseolus vu... NA              3885       512    899   99%   2e-144 99.29  2093       XM_007153042.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G007200g) mRNA, complete cds
+Query #398: tr_6065 Query ID: lcl|Query_26149 Length: 728
+Phaseolus vulgaris hypothetical protein (PHAVU_006G054600g)...    Phaseolus vu... NA              3885       222    222   24%   4e-57 88.71  1844       XM_007146547.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G054300g)...    Phaseolus vu... NA              3885       139    139   11%   4e-32 96.43  1860       XM_007146544.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G054600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G054300g) mRNA, complete cds
+Query #399: tr_6083 Query ID: lcl|Query_26150 Length: 389
+Query #400: tr_6102 Query ID: lcl|Query_26151 Length: 387
+Phaseolus vulgaris hypothetical protein (PHAVU_002G233800g)...    Phaseolus vu... NA              3885       603    603   98%   7e-172 95.30  4646       XM_007159323.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G233800g) mRNA, complete cds
+Query #401: tr_6103 Query ID: lcl|Query_26152 Length: 1209
+Phaseolus vulgaris hypothetical protein (PHAVU_010G159700g)...    Phaseolus vu... NA              3885       2220   2220  99%   0.0   99.92  1271       XM_007135739.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G159700g) mRNA, complete cds
+Query #402: tr_6146 Query ID: lcl|Query_26153 Length: 358
+Query #403: tr_6166 Query ID: lcl|Query_26154 Length: 1620
+Phaseolus vulgaris hypothetical protein (PHAVU_006G045700g)...    Phaseolus vu... NA              3885       2326   2326  85%   0.0   97.12  1367       XM_007146435.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G045700g) mRNA, complete cds
+Query #404: tr_6185 Query ID: lcl|Query_26155 Length: 1797
+Phaseolus vulgaris hypothetical protein (PHAVU_003G169600g)...    Phaseolus vu... NA              3885       2881   2881  88%   0.0   99.31  1615       XM_007154997.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G169600g) mRNA, complete cds
+Query #405: tr_6207 Query ID: lcl|Query_26156 Length: 523
+Query #406: tr_6251 Query ID: lcl|Query_26157 Length: 1021
+Phaseolus vulgaris hypothetical protein (PHAVU_009G026200g)...    Phaseolus vu... NA              3885       717    1091  58%   0.0   99.49  2093       XM_007136133.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G026200g) mRNA, complete cds
+Query #407: tr_6261 Query ID: lcl|Query_26158 Length: 889
+Phaseolus vulgaris hypothetical protein (PHAVU_003G219600g)...    Phaseolus vu... NA              3885       1338   1338  83%   0.0    99.19  743        XM_007155586.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G062200g)...    Phaseolus vu... NA              3885       420    420   39%   2e-116 88.29  888        XM_007157281.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G062200g)...    Phaseolus vu... NA              3885       420    420   39%   2e-116 88.29  762        XM_007157280.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G219600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G062200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G062200g) mRNA, complete cds
+Query #408: tr_6280 Query ID: lcl|Query_26159 Length: 522
+Query #409: tr_6328 Query ID: lcl|Query_26160 Length: 1007
+Phaseolus vulgaris hypothetical protein (PHAVU_010G139500g)...    Phaseolus vu... NA              3885       1539   1539  87%   0.0   97.88  895        XM_007135495.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G139500g) mRNA, complete cds
+Query #410: tr_6329 Query ID: lcl|Query_26161 Length: 643
+Phaseolus vulgaris hypothetical protein (PHAVU_004G141500g)...    Phaseolus vu... NA              3885       353    353   29%   1e-96 100.00 2171       XM_007152512.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G141500g) mRNA, complete cds
+Query #411: tr_6340 Query ID: lcl|Query_26162 Length: 1250
+Phaseolus vulgaris hypothetical protein (PHAVU_011G044000g)...    Phaseolus vu... NA              3885       1205   1566  69%   0.0   98.82  2234       XM_007131755.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G044000g) mRNA, complete cds
+Query #412: tr_6344 Query ID: lcl|Query_26163 Length: 3157
+Phaseolus vulgaris hypothetical protein (PHAVU_008G187800g)...    Phaseolus vu... NA              3885       4394   4685  82%   0.0   99.18  2600       XM_007141283.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G187800g)...    Phaseolus vu... NA              3885       3134   3425  60%   0.0   99.14  2014       XM_007141284.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G187800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G187800g) mRNA, complete cds
+Query #413: tr_6352 Query ID: lcl|Query_26164 Length: 1175
+Phaseolus vulgaris hypothetical protein (PHAVU_002G022000g)...    Phaseolus vu... NA              3885       1845   1845  85%   0.0   99.90  1563       XM_007156780.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G022000g) mRNA, complete cds
+Query #414: tr_6363 Query ID: lcl|Query_26165 Length: 1609
+Phaseolus vulgaris hypothetical protein (PHAVU_007G008000g)...    Phaseolus vu... NA              3885       2785   2851  98%   0.0   98.97  1698       XM_007142622.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G008000g) mRNA, complete cds
+Query #415: tr_6370 Query ID: lcl|Query_26166 Length: 1302
+Query #416: tr_6374 Query ID: lcl|Query_26167 Length: 586
+Phaseolus vulgaris hypothetical protein (PHAVU_011G052000g)...    Phaseolus vu... NA              3885       1000   1000  93%   0.0   99.63  1345       XM_007131860.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G052000g) mRNA, complete cds
+Query #417: tr_6380 Query ID: lcl|Query_26168 Length: 2377
+Phaseolus vulgaris hypothetical protein (PHAVU_004G020300g)...    Phaseolus vu... NA              3885       222    222   5%    1e-56 97.67  888        XM_007151067.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G020300g) mRNA, complete cds
+Query #418: tr_6384 Query ID: lcl|Query_26169 Length: 2516
+Phaseolus vulgaris hypothetical protein (PHAVU_009G048900g)...    Phaseolus vu... NA              3885       1783   1783  38%   0.0   99.79  1046       XM_007136421.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G048900g) mRNA, complete cds
+Query #419: tr_6392 Query ID: lcl|Query_26170 Length: 2532
+Phaseolus vulgaris hypothetical protein (PHAVU_001G040300g)...    Phaseolus vu... NA              3885       3940   3940  88%   0.0   98.19  2263       XM_007161009.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G040500g)...    Phaseolus vu... NA              3885       3386   3386  80%   0.0   96.80  2054       XM_007161011.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G040000g)...    Phaseolus vu... NA              3885       3229   3229  80%   0.0   95.09  2094       XM_007161005.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G040700g)...    Phaseolus vu... NA              3885       1884   1884  76%   0.0   84.36  2385       XM_007161013.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G040300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G040500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G040000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G040700g) mRNA, complete cds
+Query #420: tr_6404 Query ID: lcl|Query_26171 Length: 2132
+Phaseolus vulgaris hypothetical protein (PHAVU_009G048900g)...    Phaseolus vu... NA              3885       1275   1275  32%   0.0   99.43  1046       XM_007136421.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G048900g) mRNA, complete cds
+Query #421: tr_6409 Query ID: lcl|Query_26172 Length: 4541
+Phaseolus vulgaris hypothetical protein (PHAVU_006G050700g)...    Phaseolus vu... NA              3885       95.3   95.3  2%    6e-18 84.69  902        XM_007146494.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G050700g) mRNA, complete cds
+Query #422: tr_6411 Query ID: lcl|Query_26173 Length: 2484
+Phaseolus vulgaris hypothetical protein (PHAVU_009G048900g)...    Phaseolus vu... NA              3885       1927   1927  42%   0.0   99.90  1046       XM_007136421.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G048900g) mRNA, complete cds
+Query #423: tr_6424 Query ID: lcl|Query_26174 Length: 1357
+Phaseolus vulgaris hypothetical protein (PHAVU_010G039300g)...    Phaseolus vu... NA              3885       2300   2300  96%   0.0   98.32  1311       XM_007134278.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G039100g)...    Phaseolus vu... NA              3885       1275   1275  86%   0.0   86.23  1380       XM_007134276.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G038800g)...    Phaseolus vu... NA              3885       1061   1061  76%   0.0   85.25  1454       XM_007134273.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G038200g)...    Phaseolus vu... NA              3885       835    835   75%   0.0   81.47  1379       XM_007134266.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G039200g)...    Phaseolus vu... NA              3885       699    1256  81%   0.0   90.19  1327       XM_007134277.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G039300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G039100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G038800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G038200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G039200g) mRNA, complete cds
+Query #424: tr_6465 Query ID: lcl|Query_26175 Length: 1803
+Phaseolus vulgaris hypothetical protein (PHAVU_001G027100g)...    Phaseolus vu... NA              3885       1827   1827  56%   0.0   99.11  1403       XM_007160845.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G019700g)...    Phaseolus vu... NA              3885       1315   1315  39%   0.0   99.72  774        XM_007139262.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G071100g)...    Phaseolus vu... NA              3885       309    309   51%   8e-83 73.26  1354       XM_007136688.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G027100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G019700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G071100g) mRNA, complete cds
+Query #425: tr_6479 Query ID: lcl|Query_26176 Length: 2658
+Phaseolus vulgaris hypothetical protein (PHAVU_001G084800g)...    Phaseolus vu... NA              3885       4815   4815  99%   0.0   99.70  2729       XM_007161559.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G084800g) mRNA, complete cds
+Query #426: tr_6499 Query ID: lcl|Query_26177 Length: 695
+Query #427: tr_6507 Query ID: lcl|Query_26178 Length: 736
+Query #428: tr_6525 Query ID: lcl|Query_26179 Length: 1540
+Phaseolus vulgaris hypothetical protein (PHAVU_006G003300g)...    Phaseolus vu... NA              3885       2412   2412  85%   0.0    99.62  1321       XM_007145924.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G001000g)...    Phaseolus vu... NA              3885       1496   1496  68%   0.0    92.31  1203       XM_007145895.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G2374000g)...   Phaseolus vu... NA              3885       483    580   27%   4e-135 91.23  1144       XM_007163416.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G003300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G001000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G2374000g) mRNA, partial cds
+Query #429: tr_6538 Query ID: lcl|Query_26180 Length: 2735
+Phaseolus vulgaris hypothetical protein (PHAVU_003G157200g)...    Phaseolus vu... NA              3885       3893   3893  77%   0.0   99.67  2129       XM_007154836.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G045700g)...    Phaseolus vu... NA              3885       1062   1062  54%   0.0   79.68  1992       XM_007161077.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G157200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G045700g) mRNA, complete cds
+Query #430: tr_6539 Query ID: lcl|Query_26181 Length: 592
+Query #431: tr_6557 Query ID: lcl|Query_26182 Length: 1626
+Phaseolus vulgaris hypothetical protein (PHAVU_008G011800g)...    Phaseolus vu... NA              3885       1598   1712  66%   0.0   95.19  1100       XM_007139161.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G011500g)...    Phaseolus vu... NA              3885       1264   1264  44%   0.0   98.20  723        XM_007139158.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G011800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G011500g) mRNA, complete cds
+Query #432: tr_6573 Query ID: lcl|Query_26183 Length: 238
+Phaseolus vulgaris hypothetical protein (PHAVU_003G123900g)...    Phaseolus vu... NA              3885       435    435   100%  1e-121 99.58  1956       XM_007154440.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G1236000g)...   Phaseolus vu... NA              3885       329    329   100%  7e-90  91.60  507        XM_007154435.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G123500g)...    Phaseolus vu... NA              3885       329    635   100%  7e-90  91.60  1439       XM_007154431.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G1236001g)...   Phaseolus vu... NA              3885       324    596   100%  3e-88  91.18  1219       XM_007154434.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G1236001g)...   Phaseolus vu... NA              3885       294    567   100%  3e-79  93.43  892        XM_007154433.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G1236001g)...   Phaseolus vu... NA              3885       220    220   80%   5e-57  87.43  664        XM_007154432.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G123400g)...    Phaseolus vu... NA              3885       110    110   40%   1e-23  86.87  1147       XM_007154430.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G123900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G1236000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G1236000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G123500g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G1236001g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G1236001g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G1236001g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G123400g) mRNA, complete cds
+Query #433: tr_6581 Query ID: lcl|Query_26184 Length: 760
+Phaseolus vulgaris hypothetical protein (PHAVU_004G153800g)...    Phaseolus vu... NA              3885       1365   1365  100%  0.0   99.08  793        XM_007152659.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G153800g) mRNA, complete cds
+Query #434: tr_6594 Query ID: lcl|Query_26185 Length: 2576
+Phaseolus vulgaris hypothetical protein (PHAVU_011G057000g)...    Phaseolus vu... NA              3885       3921   3921  83%   0.0   99.63  2147       XM_007131922.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G057000g)...    Phaseolus vu... NA              3885       3895   3895  83%   0.0   99.44  2143       XM_007131921.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G149700g)...    Phaseolus vu... NA              3885       1112   1112  54%   0.0   81.19  2239       XM_007150333.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G057000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G057000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G149700g) mRNA, complete cds
+Query #435: tr_6595 Query ID: lcl|Query_26186 Length: 952
+Phaseolus vulgaris hypothetical protein (PHAVU_010G158200g)...    Phaseolus vu... NA              3885       1230   1507  86%   0.0   100.00 986        XM_007135723.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G158200g) mRNA, complete cds
+Query #436: tr_6617 Query ID: lcl|Query_26187 Length: 1558
+Phaseolus vulgaris hypothetical protein (PHAVU_004G157700g)...    Phaseolus vu... NA              3885       2562   2562  93%   0.0   98.55  1450       XM_007152703.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G157700g) mRNA, complete cds
+Query #437: tr_6628 Query ID: lcl|Query_26188 Length: 1029
+Phaseolus vulgaris hypothetical protein (PHAVU_010G041200g)...    Phaseolus vu... NA              3885       1888   1888  100%  0.0   99.81  1682       XM_007134300.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G041200g) mRNA, complete cds
+Query #438: tr_6636 Query ID: lcl|Query_26189 Length: 932
+Phaseolus vulgaris hypothetical protein (PHAVU_003G251000g)...    Phaseolus vu... NA              3885       1081   1081  62%   0.0   100.00 585        XM_007155948.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G251000g) mRNA, complete cds
+Query #439: tr_6673 Query ID: lcl|Query_26190 Length: 627
+Phaseolus vulgaris hypothetical protein (PHAVU_008G282300g)...    Phaseolus vu... NA              3885       723    723   63%   0.0   99.25  425        XM_007142396.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G282300g) mRNA, complete cds
+Query #440: tr_6674 Query ID: lcl|Query_26191 Length: 1554
+Phaseolus vulgaris hypothetical protein (PHAVU_008G196100g)...    Phaseolus vu... NA              3885       1336   2432  86%   0.0    99.46  1446       XM_007141382.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G025300g)...    Phaseolus vu... NA              3885       442    811   57%   6e-123 85.45  1469       XM_007146196.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G025300g)...    Phaseolus vu... NA              3885       442    811   57%   6e-123 85.45  1220       XM_007146195.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G025300g)...    Phaseolus vu... NA              3885       442    811   57%   6e-123 85.45  1365       XM_007146194.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G025300g)...    Phaseolus vu... NA              3885       442    811   57%   6e-123 85.45  1324       XM_007146193.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G196100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G025300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G025300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G025300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G025300g) mRNA, complete cds
+Query #441: tr_6682 Query ID: lcl|Query_26192 Length: 735
+Query #442: tr_6723 Query ID: lcl|Query_26193 Length: 799
+Query #443: tr_6731 Query ID: lcl|Query_26194 Length: 1809
+Phaseolus vulgaris hypothetical protein (PHAVU_004G123000g)...    Phaseolus vu... NA              3885       1474   2912  87%   0.0    99.75  1789       XM_007152293.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G123000g)...    Phaseolus vu... NA              3885       1437   2369  71%   0.0    99.74  1658       XM_007152294.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G153600g)...    Phaseolus vu... NA              3885       544    544   35%   2e-153 81.87  1742       XM_007158390.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G123000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G123000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G153600g) mRNA, complete cds
+Query #444: tr_6734 Query ID: lcl|Query_26195 Length: 1498
+Phaseolus vulgaris hypothetical protein (PHAVU_006G120500g)...    Phaseolus vu... NA              3885       2078   2078  76%   0.0   99.56  1355       XM_007147330.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G120500g) mRNA, complete cds
+Query #445: tr_6828 Query ID: lcl|Query_26196 Length: 359
+Phaseolus vulgaris hypothetical protein (PHAVU_009G178800g)...    Phaseolus vu... NA              3885       664    664   100%  0.0   100.00 1267       XM_007138018.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G178800g)...    Phaseolus vu... NA              3885       664    664   100%  0.0   100.00 1273       XM_007138017.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G178800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G178800g) mRNA, complete cds
+Query #446: tr_6834 Query ID: lcl|Query_26197 Length: 575
+Query #447: tr_6836 Query ID: lcl|Query_26198 Length: 1221
+Phaseolus vulgaris hypothetical protein (PHAVU_009G071300g)...    Phaseolus vu... NA              3885       2145   2145  95%   0.0   100.00 3780       XM_007136690.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G071300g) mRNA, complete cds
+Query #448: tr_6837 Query ID: lcl|Query_26199 Length: 2448
+Phaseolus vulgaris hypothetical protein (PHAVU_009G008500g)...    Phaseolus vu... NA              3885       2372   3738  83%   0.0   99.69  2066       XM_007135922.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G008500g) mRNA, complete cds
+Query #449: tr_6844 Query ID: lcl|Query_26200 Length: 1052
+Phaseolus vulgaris hypothetical protein (PHAVU_006G110100g)...    Phaseolus vu... NA              3885       1644   1644  84%   0.0   99.89  893        XM_007147211.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G110100g) mRNA, complete cds
+Query #450: tr_6866 Query ID: lcl|Query_26201 Length: 916
+Query #451: tr_6876 Query ID: lcl|Query_26202 Length: 2322
+Phaseolus vulgaris hypothetical protein (PHAVU_007G061200g)...    Phaseolus vu... NA              3885       2350   3747  88%   0.0   99.46  2067       XM_007143244.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G061200g)...    Phaseolus vu... NA              3885       2329   3726  88%   0.0   99.23  2064       XM_007143243.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_007G277900g)...    Phaseolus vu... NA              3885       291    291   11%   4e-77 85.61  2075       XM_007145847.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G061200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G061200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_007G277900g) mRNA, complete cds
+Query #452: tr_6979 Query ID: lcl|Query_26203 Length: 1028
+Phaseolus vulgaris hypothetical protein (PHAVU_003G054200g)...    Phaseolus vu... NA              3885       1770   1770  100%  0.0   97.76  1446       XM_007153599.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G053900g)...    Phaseolus vu... NA              3885       1506   1506  82%   0.0   98.82  958        XM_007153595.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G054200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G053900g) mRNA, complete cds
+Query #453: tr_7025 Query ID: lcl|Query_26204 Length: 1142
+Query #454: tr_7036 Query ID: lcl|Query_26205 Length: 311
+Query #455: tr_7085 Query ID: lcl|Query_26206 Length: 765
+Query #456: tr_7106 Query ID: lcl|Query_26207 Length: 556
+Query #457: tr_7130 Query ID: lcl|Query_26208 Length: 719
+Phaseolus vulgaris hypothetical protein (PHAVU_009G002600g)...    Phaseolus vu... NA              3885       1029   1029  79%   0.0   99.30  1284       XM_007135852.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G002600g) mRNA, complete cds
+Query #458: tr_7133 Query ID: lcl|Query_26209 Length: 1064
+Phaseolus vulgaris hypothetical protein (PHAVU_009G142200g)...    Phaseolus vu... NA              3885       643    643   32%   0.0   100.00 348        XM_007137561.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G142200g) mRNA, complete cds
+Query #459: tr_7143 Query ID: lcl|Query_26210 Length: 723
+Query #460: tr_7173 Query ID: lcl|Query_26211 Length: 971
+Query #461: tr_7175 Query ID: lcl|Query_26212 Length: 1324
+Phaseolus vulgaris hypothetical protein (PHAVU_005G166500g)...    Phaseolus vu... NA              3885       2351   2351  98%   0.0   99.08  4800       XM_007150548.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G166500g) mRNA, complete cds
+Query #462: tr_7186 Query ID: lcl|Query_26213 Length: 2541
+Phaseolus vulgaris hypothetical protein (PHAVU_009G084500g)...    Phaseolus vu... NA              3885       3661   3661  79%   0.0   99.50  2024       XM_007136852.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G084500g) mRNA, complete cds
+Query #463: tr_7195 Query ID: lcl|Query_26214 Length: 683
+Phaseolus vulgaris hypothetical protein (PHAVU_004G125100g)...    Phaseolus vu... NA              3885       883    883   69%   0.0   100.00 2877       XM_007152316.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_004G125200g)...    Phaseolus vu... NA              3885       294    294   57%   8e-79 80.35  2706       XM_007152317.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G125100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G125200g) mRNA, complete cds
+Query #464: tr_7223 Query ID: lcl|Query_26215 Length: 1263
+Phaseolus vulgaris hypothetical protein (PHAVU_003G293200g)...    Phaseolus vu... NA              3885       1642   1642  95%   0.0   91.62  1360       XM_007156461.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_008G134100g)...    Phaseolus vu... NA              3885       1613   1613  86%   0.0   93.28  1316       XM_007140634.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G015900g)...    Phaseolus vu... NA              3885       1188   1188  86%   0.0   86.37  1274       XM_007133997.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G293200g)...    Phaseolus vu... NA              3885       983    1730  98%   0.0   88.17  2229       XM_007156462.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G293200g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G134100g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G015900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G293200g) mRNA, complete cds
+Query #465: tr_7235 Query ID: lcl|Query_26216 Length: 816
+Phaseolus vulgaris hypothetical protein (PHAVU_002G303700g)...    Phaseolus vu... NA              3885       1496   1496  99%   0.0   100.00 1024       XM_007160168.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G303700g) mRNA, complete cds
+Query #466: tr_7299 Query ID: lcl|Query_26217 Length: 770
+Phaseolus vulgaris hypothetical protein (PHAVU_009G237400g)...    Phaseolus vu... NA              3885       1079   1079  77%   0.0   99.33  1957       XM_007138724.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G237400g) mRNA, complete cds
+Query #467: tr_7305 Query ID: lcl|Query_26218 Length: 1609
+Query #468: tr_7308 Query ID: lcl|Query_26219 Length: 1550
+Phaseolus vulgaris hypothetical protein (PHAVU_009G044400g)...    Phaseolus vu... NA              3885       2603   2603  91%   0.0   99.65  1427       XM_007136366.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G044400g) mRNA, complete cds
+Query #469: tr_7311 Query ID: lcl|Query_26220 Length: 332
+Phaseolus vulgaris hypothetical protein (PHAVU_011G130400g)...    Phaseolus vu... NA              3885       603    603   100%  6e-172 99.40  3730       XM_007132794.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G130400g) mRNA, complete cds
+Query #470: tr_7321 Query ID: lcl|Query_26221 Length: 1592
+Phaseolus vulgaris hypothetical protein (PHAVU_001G004300g)...    Phaseolus vu... NA              3885       701    701   29%   0.0    93.66  1126       XM_007160577.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_011G143400g)...    Phaseolus vu... NA              3885       577    691   25%   2e-163 97.08  570        XM_007132946.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_010G061300g)...    Phaseolus vu... NA              3885       457    513   19%   2e-127 95.77  354        XM_007134548.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G004300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G143400g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G061300g) mRNA, complete cds
+Query #471: tr_7334 Query ID: lcl|Query_26222 Length: 1958
+Phaseolus vulgaris hypothetical protein (PHAVU_011G025100g)...    Phaseolus vu... NA              3885       2152   3283  94%   0.0   99.25  1886       XM_007131519.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_011G025100g) mRNA, complete cds
+Query #472: tr_7336 Query ID: lcl|Query_26223 Length: 2482
+Phaseolus vulgaris hypothetical protein (PHAVU_002G175200g)...    Phaseolus vu... NA              3885       1170   1170  25%   0.0   99.69  1333       XM_007158640.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G175200g) mRNA, complete cds
+Query #473: tr_7345 Query ID: lcl|Query_26224 Length: 352
+Phaseolus vulgaris hypothetical protein (PHAVU_010G134800g)...    Phaseolus vu... NA              3885       307    307   50%   5e-83  97.75  2856       XM_007135443.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_010G134800g) mRNA, complete cds
+Query #474: tr_7377 Query ID: lcl|Query_26225 Length: 1605
+Phaseolus vulgaris hypothetical protein (PHAVU_009G086200g)...    Phaseolus vu... NA              3885       1352   1352  46%   0.0   99.33  760        XM_007136870.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G086200g) mRNA, complete cds
+Query #475: tr_7385 Query ID: lcl|Query_26226 Length: 1418
+Phaseolus vulgaris hypothetical protein (PHAVU_006G217900g)...    Phaseolus vu... NA              3885       2495   2495  97%   0.0   99.21  1389       XM_007148487.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_006G217900g)...    Phaseolus vu... NA              3885       2464   2464  98%   0.0   98.50  1397       XM_007148486.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G217900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G217900g) mRNA, complete cds
+Query #476: tr_7412 Query ID: lcl|Query_26227 Length: 1119
+Phaseolus vulgaris hypothetical protein (PHAVU_005G018300g)...    Phaseolus vu... NA              3885       52.8   52.8  2%    9e-06 100.00 672        XM_007148775.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G018300g) mRNA, complete cds
+Query #477: tr_7426 Query ID: lcl|Query_26228 Length: 329
+Query #478: tr_7441 Query ID: lcl|Query_26229 Length: 775
+Phaseolus vulgaris hypothetical protein (PHAVU_008G278900g)...    Phaseolus vu... NA              3885       1018   1018  72%   0.0   99.12  1089       XM_007142356.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G278900g) mRNA, complete cds
+Query #479: tr_7443 Query ID: lcl|Query_26230 Length: 2897
+Phaseolus vulgaris hypothetical protein (PHAVU_004G122700g)...    Phaseolus vu... NA              3885       1642   2582  48%   0.0   99.67  1410       XM_007152290.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_004G122700g) mRNA, complete cds
+Query #480: tr_7448 Query ID: lcl|Query_26231 Length: 595
+Query #481: tr_7515 Query ID: lcl|Query_26232 Length: 1646
+Phaseolus vulgaris hypothetical protein (PHAVU_001G133000g)...    Phaseolus vu... NA              3885       1853   1853  81%   0.0    91.54  2634       XM_007162143.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G132300g)...    Phaseolus vu... NA              3885       1644   1644  79%   0.0    89.22  2665       XM_007162134.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G1325000g)...   Phaseolus vu... NA              3885       1210   1210  63%   0.0    87.48  1091       XM_007162137.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G132700g)...    Phaseolus vu... NA              3885       1197   1197  43%   0.0    97.18  2592       XM_007162140.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G132800g)...    Phaseolus vu... NA              3885       1184   1184  81%   0.0    82.70  2651       XM_007162141.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G1331000g)...   Phaseolus vu... NA              3885       774    774   49%   0.0    83.84  1206       XM_007162145.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G1331001g)...   Phaseolus vu... NA              3885       749    749   25%   0.0    99.28  1698       XM_007162144.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G1326000g)...   Phaseolus vu... NA              3885       741    741   47%   0.0    83.73  828        XM_007162139.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_001G1326001g)...   Phaseolus vu... NA              3885       433    433   15%   4e-120 97.27  1539       XM_007162138.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G133000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G132300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G1325000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G132700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G132800g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G1331000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G1331001g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G1326000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G1326001g) mRNA, partial cds
+Query #482: tr_7520 Query ID: lcl|Query_26233 Length: 1767
+Phaseolus vulgaris hypothetical protein (PHAVU_008G271000g)...    Phaseolus vu... NA              3885       2885   2885  93%   0.0   98.13  2212       XM_007142266.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_008G271000g) mRNA, complete cds
+Query #483: tr_7567 Query ID: lcl|Query_26234 Length: 627
+Phaseolus vulgaris hypothetical protein (PHAVU_002G148600g)...    Phaseolus vu... NA              3885       1042   1042  92%   0.0   99.14  1699       XM_007158321.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G148600g) mRNA, complete cds
+Query #484: tr_7578 Query ID: lcl|Query_26235 Length: 1090
+Query #485: tr_7588 Query ID: lcl|Query_26236 Length: 906
+Phaseolus vulgaris hypothetical protein (PHAVU_006G075900g)...    Phaseolus vu... NA              3885       1061   1061  64%   0.0   99.66  1213       XM_007146794.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G075900g) mRNA, complete cds
+Query #486: tr_7589 Query ID: lcl|Query_26237 Length: 1099
+Phaseolus vulgaris hypothetical protein (PHAVU_001G031100g)...    Phaseolus vu... NA              3885       1554   1554  78%   0.0   99.19  1217       XM_007160890.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_001G031100g) mRNA, complete cds
+Query #487: tr_7652 Query ID: lcl|Query_26238 Length: 1278
+Query #488: tr_7655 Query ID: lcl|Query_26239 Length: 4501
+Phaseolus vulgaris hypothetical protein (PHAVU_003G294700g)...    Phaseolus vu... NA              3885       1216   1305  16%   0.0   97.87  1090       XM_007156478.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G294700g) mRNA, complete cds
+Query #489: tr_7698 Query ID: lcl|Query_26240 Length: 1135
+Phaseolus vulgaris hypothetical protein (PHAVU_006G180000g)...    Phaseolus vu... NA              3885       1517   1517  91%   0.0   93.03  1152       XM_007148028.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_003G073500g)...    Phaseolus vu... NA              3885       1134   1134  73%   0.0   91.06  1101       XM_007153827.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_006G180000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_003G073500g) mRNA, complete cds
+Query #490: tr_7702 Query ID: lcl|Query_26241 Length: 993
+Phaseolus vulgaris hypothetical protein (PHAVU_005G148800g)...    Phaseolus vu... NA              3885       1653   1653  100%  0.0   96.78  1515       XM_007150323.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G148800g) mRNA, complete cds
+Query #491: tr_7749 Query ID: lcl|Query_26242 Length: 790
+Phaseolus vulgaris hypothetical protein (PHAVU_002G017900g)...    Phaseolus vu... NA              3885       601    735   77%   5e-171 89.09  5006       XM_007156730.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G0723001g)...   Phaseolus vu... NA              3885       350    862   65%   2e-95  97.56  2168       XM_007136705.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G017900g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G0723001g) mRNA, complete cds
+Query #492: tr_7782 Query ID: lcl|Query_26243 Length: 965
+Query #493: tr_7788 Query ID: lcl|Query_26244 Length: 2399
+Phaseolus vulgaris hypothetical protein (PHAVU_002G187000g)...    Phaseolus vu... NA              3885       2357   2357  53%   0.0   99.92  1279       XM_007158787.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_002G187100g)...    Phaseolus vu... NA              3885       1908   1908  43%   0.0   100.00 1033       XM_007158788.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G187000g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G187100g) mRNA, complete cds
+Query #494: tr_7790 Query ID: lcl|Query_26245 Length: 1402
+Phaseolus vulgaris hypothetical protein (PHAVU_009G116700g)...    Phaseolus vu... NA              3885       1919   1919  82%   0.0   96.42  1172       XM_007137248.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G116600g)...    Phaseolus vu... NA              3885       1507   2004  88%   0.0   96.79  1228       XM_007137247.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G116300g)...    Phaseolus vu... NA              3885       1181   1181  56%   0.0   93.77  822        XM_007137243.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G1165000g)...   Phaseolus vu... NA              3885       828    828   35%   0.0   96.41  502        XM_007137246.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_009G1165001g)...   Phaseolus vu... NA              3885       324    530   26%   2e-87 96.00  362        XM_007137245.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G116700g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G116600g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G116300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G1165000g) mRNA, partial cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_009G1165001g) mRNA, partial cds
+Query #495: tr_7795 Query ID: lcl|Query_26246 Length: 808
+Phaseolus vulgaris hypothetical protein (PHAVU_002G303700g)...    Phaseolus vu... NA              3885       1351   1351  100%  0.0   97.28  1024       XM_007160168.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_002G303700g) mRNA, complete cds
+Query #496: tr_7809 Query ID: lcl|Query_26247 Length: 1204
+Phaseolus vulgaris hypothetical protein (PHAVU_005G166300g)...    Phaseolus vu... NA              3885       2180   2329  100%  0.0   99.26  1651       XM_007150546.1   
+Phaseolus vulgaris hypothetical protein (PHAVU_005G166300g)...    Phaseolus vu... NA              3885       2180   2329  100%  0.0   99.26  1724       XM_007150545.1   
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G166300g) mRNA, complete cds
+>Phaseolus vulgaris hypothetical protein (PHAVU_005G166300g) mRNA, complete cds
+Query #497: tr_7810 Query ID: lcl|Query_26248 Length: 547
+Query #498: tr_7839 Query ID: lcl|Query_26249 Length: 434
+Query #499: tr_7848 Query ID: lcl|Query_26250 Length: 1780
+Query #500: tr_7856 Query ID: lcl|Query_26251 Length: 1234
