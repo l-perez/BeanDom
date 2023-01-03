@@ -1,0 +1,1 @@
+This model was produced using the "Deep Neural Networks for Classification of LC-MS Spectral Peaks" available at https://github.com/JainLab/Manuscript-DNNs-for-Classification-of-LCMS-Peaks
